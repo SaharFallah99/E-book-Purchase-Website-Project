@@ -1,0 +1,94 @@
+[
+  {
+    "id": "rah-e-doom",
+    "title": "راه دُور",
+    "host": "سارا محمدی",
+    "description": "گفت‌وگوهای آرام درباره کتاب‌هایی که مسیر فکر کردن ما را عوض می‌کنند.",
+    "episodes": 12,
+    "durationMin": 38,
+    "color": "#617054",
+    "episodeList": [
+      {
+        "title": "چرا داستان‌ها ما را نجات می‌دهند؟",
+        "durationMin": 41
+      },
+      {
+        "title": "عادت‌هایی که هویت می‌سازند",
+        "durationMin": 35
+      },
+      {
+        "title": "خواندن در زمانه‌ی شتاب",
+        "durationMin": 44
+      }
+    ]
+  },
+  {
+    "id": "shabane",
+    "title": "شبانه‌های کتاب",
+    "host": "امیر رضایی",
+    "description": "هر شب یک قصه‌ی کوتاه، یک صدای گرم و چند دقیقه فرار از هیاهو.",
+    "episodes": 28,
+    "durationMin": 24,
+    "color": "#382110",
+    "episodeList": [
+      {
+        "title": "ماهی سیاه کوچولو",
+        "durationMin": 22
+      },
+      {
+        "title": "نامه‌ای به کودکی",
+        "durationMin": 19
+      },
+      {
+        "title": "خانه‌ی روشن",
+        "durationMin": 27
+      }
+    ]
+  },
+  {
+    "id": "gofteman",
+    "title": "گفت‌مان",
+    "host": "مریم کاظمی",
+    "description": "فلسفه به زبان ساده؛ برای روزهایی که سؤال‌های بزرگ سراغمان می‌آیند.",
+    "episodes": 18,
+    "durationMin": 46,
+    "color": "#D98017",
+    "episodeList": [
+      {
+        "title": "آیا آزادی یعنی انتخاب؟",
+        "durationMin": 48
+      },
+      {
+        "title": "رنج چه معنایی دارد؟",
+        "durationMin": 43
+      },
+      {
+        "title": "دیگری، آینه‌ی من",
+        "durationMin": 39
+      }
+    ]
+  },
+  {
+    "id": "kargah",
+    "title": "کارگاه نویسندگی",
+    "host": "نیما احمدی",
+    "description": "از ایده تا صفحه؛ تمرین‌های کوتاه برای کسانی که می‌خواهند بنویسند.",
+    "episodes": 21,
+    "durationMin": 31,
+    "color": "#F57756",
+    "episodeList": [
+      {
+        "title": "شروع از یک خاطره",
+        "durationMin": 29
+      },
+      {
+        "title": "دیالوگی که زندگی می‌کند",
+        "durationMin": 34
+      },
+      {
+        "title": "ویرایش بی‌رحم",
+        "durationMin": 33
+      }
+    ]
+  }
+]

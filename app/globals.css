@@ -1,0 +1,255 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+@custom-variant dark (&:is(.dark *));
+
+@font-face {
+  font-family: "Vazirmatn";
+  src: url("/fonts/Vazirmatn-Arabic.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  unicode-range: U+0600-06FF, U+0750-077F, U+0870-0891, U+0897-08E1,
+    U+08E3-08FF, U+200C-200E, U+2010-2011, U+204F, U+2E41, U+FB50-FDFF,
+    U+FE70-FE74, U+FE76-FEFC;
+}
+
+@font-face {
+  font-family: "Vazirmatn";
+  src: url("/fonts/Vazirmatn-Latin.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6,
+    U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122,
+    U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@theme inline {
+  --font-sans: "Vazirmatn", Tahoma, sans-serif;
+  --font-heading: "Vazirmatn", Tahoma, sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, monospace;
+
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-cream: var(--cream);
+  --color-header: var(--header);
+  --color-coffee: var(--coffee);
+  --color-sunflower: var(--sunflower);
+  --color-sunflower-deep: var(--sunflower-deep);
+  --color-coral: var(--coral);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.2);
+  --radius-4xl: calc(var(--radius) * 2.6);
+}
+
+:root {
+  --background: #ffffff;
+  --foreground: #382110;
+  --card: #ffffff;
+  --card-foreground: #382110;
+  --popover: #ffffff;
+  --popover-foreground: #382110;
+  --primary: #617054;
+  --primary-foreground: #ffffff;
+  --secondary: #f4f2e9;
+  --secondary-foreground: #382110;
+  --muted: #f4f2e9;
+  --muted-foreground: #74695e;
+  --accent: #f5d47a;
+  --accent-foreground: #382110;
+  --destructive: #b42318;
+  --border: #e9e3d9;
+  --input: #e2dbcf;
+  --ring: #617054;
+  --cream: #f4f2e9;
+  --header: #faf8f6;
+  --coffee: #382110;
+  --sunflower: #d98017;
+  --sunflower-deep: #e77100;
+  --coral: #f57756;
+  --chart-1: #617054;
+  --chart-2: #d98017;
+  --chart-3: #f57756;
+  --chart-4: #f5d47a;
+  --chart-5: #382110;
+  --radius: 0.9rem;
+}
+
+.dark {
+  --background: #211b17;
+  --foreground: #f4f2e9;
+  --card: #2b241f;
+  --card-foreground: #f4f2e9;
+  --popover: #2b241f;
+  --popover-foreground: #f4f2e9;
+  --primary: #9caf89;
+  --primary-foreground: #1c2218;
+  --secondary: #342c26;
+  --secondary-foreground: #f4f2e9;
+  --muted: #342c26;
+  --muted-foreground: #c9beb0;
+  --accent: #f5d47a;
+  --accent-foreground: #382110;
+  --destructive: #ff8a7a;
+  --border: #463b33;
+  --input: #4d4138;
+  --ring: #9caf89;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    font-family: var(--font-sans);
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-feature-settings: "ss01" 1, "ss02" 1;
+    text-rendering: optimizeLegibility;
+  }
+
+  ::selection {
+    background: #f5d47a;
+    color: #382110;
+  }
+
+  button,
+  a,
+  input,
+  select {
+    -webkit-tap-highlight-color: transparent;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  .hero-grain {
+    background-image:
+      radial-gradient(circle at 22% 18%, rgba(255, 255, 255, 0.06), transparent 32%),
+      radial-gradient(circle at 80% 80%, rgba(0, 0, 0, 0.14), transparent 38%),
+      radial-gradient(rgba(255, 255, 255, 0.09) 0.7px, transparent 0.7px);
+    background-size: auto, auto, 18px 18px;
+  }
+
+  .soft-shadow {
+    box-shadow: 0 18px 45px -28px rgba(56, 33, 16, 0.45);
+  }
+
+  .card-hover {
+    transition:
+      transform 220ms ease,
+      box-shadow 220ms ease,
+      border-color 220ms ease;
+  }
+
+  .card-hover:hover {
+    transform: translateY(-4px);
+    border-color: color-mix(in srgb, var(--primary) 35%, var(--border));
+    box-shadow: 0 22px 45px -30px rgba(56, 33, 16, 0.4);
+  }
+}
+
+/* ————— Sunflower motion ————— */
+.sunflower-sway {
+  transform-box: view-box;
+  transform-origin: 50% 98%;
+  animation: sunflower-sway var(--sway-duration, 6.5s) ease-in-out
+    var(--sway-delay, 0s) infinite alternate;
+  will-change: transform;
+}
+
+.sunflower-head {
+  transform-box: view-box;
+  transform-origin: 50px 56px;
+  animation: sunflower-head var(--head-duration, 15s) ease-in-out
+    var(--head-delay, 0s) infinite alternate;
+  will-change: transform;
+}
+
+@keyframes sunflower-sway {
+  from {
+    transform: rotate(-3.4deg);
+  }
+  to {
+    transform: rotate(3.4deg);
+  }
+}
+
+@keyframes sunflower-head {
+  from {
+    transform: rotate(-2deg);
+  }
+  to {
+    transform: rotate(2deg);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .sunflower-sway,
+  .sunflower-head {
+    animation: none !important;
+  }
+
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+/* ————— Small range input polish ————— */
+input[type="range"] {
+  accent-color: var(--primary);
+}
+
+.reader-content p {
+  text-align: justify;
+}
+
+@media (max-width: 640px) {
+  .reader-content p {
+    text-align: right;
+  }
+}

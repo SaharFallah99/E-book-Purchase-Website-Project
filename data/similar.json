@@ -1,0 +1,6962 @@
+{
+  "95170": [
+    {
+      "id": 71446,
+      "title": "پسرک، موش کور، روباه و اسب",
+      "format": "ebook",
+      "cover": "/covers/71446.jpg",
+      "remoteCover": "https://img.taaghche.com/frontCover/71446.jpg",
+      "finalPrice": 125000,
+      "price": 125000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.27,
+      "ratingsCount": 4800,
+      "authors": [
+        "چارلی مکسی"
+      ],
+      "durationMin": null,
+      "pages": 132,
+      "inSubscription": true
+    },
+    {
+      "id": 59164,
+      "title": "مغازه خودکشی",
+      "format": "audiobook",
+      "cover": "/covers/59164.jpg",
+      "remoteCover": "/covers/59164.jpg",
+      "finalPrice": 0,
+      "price": 154000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.0,
+      "ratingsCount": 0,
+      "authors": [
+        "ژان تولی"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 89835,
+      "title": "جزء از کل",
+      "format": "audiobook",
+      "cover": "/covers/89835.jpg",
+      "remoteCover": "/covers/89835.jpg",
+      "finalPrice": 0,
+      "price": 352000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.94,
+      "ratingsCount": 0,
+      "authors": [
+        "استیو تولتز"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 196265,
+      "title": "بخش دی",
+      "format": "ebook",
+      "cover": "/covers/196265.jpg",
+      "remoteCover": "/covers/196265.jpg",
+      "finalPrice": 0,
+      "price": 180000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.32,
+      "ratingsCount": 0,
+      "authors": [
+        "فریدا مک فادن"
+      ],
+      "durationMin": null,
+      "pages": 264,
+      "inSubscription": false
+    },
+    {
+      "id": 69675,
+      "title": "بامداد خمار",
+      "format": "audiobook",
+      "cover": "/covers/69675.jpg",
+      "remoteCover": "/covers/69675.jpg",
+      "finalPrice": 0,
+      "price": 387000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.22,
+      "ratingsCount": 0,
+      "authors": [
+        "فتانه حاج سید جوادی (پروین)"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 187855,
+      "title": "خاطرات یک آدم کش",
+      "format": "audiobook",
+      "cover": "/covers/187855.jpg",
+      "remoteCover": "/covers/187855.jpg",
+      "finalPrice": 0,
+      "price": 165000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.06,
+      "ratingsCount": 0,
+      "authors": [
+        "کیم یونگ ها"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    }
+  ],
+  "71446": [
+    {
+      "id": 108473,
+      "title": "پاندای بزرگ و اژدهای کوچک",
+      "format": "ebook",
+      "cover": "/covers/108473.jpg",
+      "remoteCover": "https://img.taaghche.com/frontCover/108473.jpg",
+      "finalPrice": 125000,
+      "price": 125000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.31,
+      "ratingsCount": 3324,
+      "authors": [
+        "جیمز نوربری"
+      ],
+      "durationMin": null,
+      "pages": 160,
+      "inSubscription": true
+    },
+    {
+      "id": 95170,
+      "title": "کتابخانه نیمه شب",
+      "format": "ebook",
+      "cover": "/covers/95170.jpg",
+      "remoteCover": "https://img.taaghche.com/frontCover/95170.jpg",
+      "finalPrice": 117000,
+      "price": 117000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.28,
+      "ratingsCount": 7689,
+      "authors": [
+        "مت هیگ"
+      ],
+      "durationMin": null,
+      "pages": 352,
+      "inSubscription": true
+    },
+    {
+      "id": 72107,
+      "title": "شازده کوچولو",
+      "format": "audiobook",
+      "cover": "/covers/72107.jpg",
+      "remoteCover": "/covers/72107.jpg",
+      "finalPrice": 0,
+      "price": 15000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.37,
+      "ratingsCount": 0,
+      "authors": [
+        "آنتوان دوسنت اگزوپری"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 298,
+      "title": "شاهنامه فردوسی",
+      "format": "ebook",
+      "cover": "/covers/298.jpg",
+      "remoteCover": "/covers/298.jpg",
+      "finalPrice": 0,
+      "price": 15000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.47,
+      "ratingsCount": 0,
+      "authors": [
+        "ابوالقاسم فردوسی"
+      ],
+      "durationMin": null,
+      "pages": 1000,
+      "inSubscription": false
+    },
+    {
+      "id": 882,
+      "title": "بوف کور",
+      "format": "ebook",
+      "cover": "/covers/882.jpg",
+      "remoteCover": "/covers/882.jpg",
+      "finalPrice": 0,
+      "price": 50000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.92,
+      "ratingsCount": 0,
+      "authors": [
+        "صادق هدایت"
+      ],
+      "durationMin": null,
+      "pages": 87,
+      "inSubscription": false
+    },
+    {
+      "id": 54965,
+      "title": "شب های روشن",
+      "format": "ebook",
+      "cover": "/covers/54965.jpg",
+      "remoteCover": "/covers/54965.jpg",
+      "finalPrice": 0,
+      "price": 80000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.93,
+      "ratingsCount": 0,
+      "authors": [
+        "فئودور داستایفسکی"
+      ],
+      "durationMin": null,
+      "pages": 111,
+      "inSubscription": false
+    }
+  ],
+  "882": [
+    {
+      "id": 19096,
+      "title": "مسخ",
+      "format": "ebook",
+      "cover": "/covers/19096.jpg",
+      "remoteCover": "https://img.taaghche.com/frontCover/19096.jpg",
+      "finalPrice": 5000,
+      "price": 5000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.6,
+      "ratingsCount": 746,
+      "authors": [
+        "فرانتس کافکا"
+      ],
+      "durationMin": null,
+      "pages": 71,
+      "inSubscription": true
+    },
+    {
+      "id": 298,
+      "title": "شاهنامه فردوسی",
+      "format": "ebook",
+      "cover": "/covers/298.jpg",
+      "remoteCover": "https://img.taaghche.com/frontCover/298.jpg",
+      "finalPrice": 15000,
+      "price": 15000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.47,
+      "ratingsCount": 3518,
+      "authors": [
+        "ابوالقاسم فردوسی"
+      ],
+      "durationMin": null,
+      "pages": 1000,
+      "inSubscription": true
+    },
+    {
+      "id": 71446,
+      "title": "پسرک، موش کور، روباه و اسب",
+      "format": "ebook",
+      "cover": "/covers/71446.jpg",
+      "remoteCover": "/covers/71446.jpg",
+      "finalPrice": 0,
+      "price": 125000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.27,
+      "ratingsCount": 0,
+      "authors": [
+        "چارلی مکسی"
+      ],
+      "durationMin": null,
+      "pages": 132,
+      "inSubscription": false
+    },
+    {
+      "id": 54965,
+      "title": "شب های روشن",
+      "format": "ebook",
+      "cover": "/covers/54965.jpg",
+      "remoteCover": "/covers/54965.jpg",
+      "finalPrice": 0,
+      "price": 80000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.93,
+      "ratingsCount": 0,
+      "authors": [
+        "فئودور داستایفسکی"
+      ],
+      "durationMin": null,
+      "pages": 111,
+      "inSubscription": false
+    },
+    {
+      "id": 17155,
+      "title": "شرط‌بندی",
+      "format": "ebook",
+      "cover": "/covers/17155.jpg",
+      "remoteCover": "/covers/17155.jpg",
+      "finalPrice": 0,
+      "price": 0,
+      "discountPercent": 0,
+      "free": true,
+      "rating": 4.54,
+      "ratingsCount": 0,
+      "authors": [
+        "آنتوان چخوف"
+      ],
+      "durationMin": null,
+      "pages": 13,
+      "inSubscription": false
+    },
+    {
+      "id": 38422,
+      "title": "پروین اعتصامی",
+      "format": "ebook",
+      "cover": "/covers/38422.jpg",
+      "remoteCover": "/covers/38422.jpg",
+      "finalPrice": 0,
+      "price": 0,
+      "discountPercent": 0,
+      "free": true,
+      "rating": 4.46,
+      "ratingsCount": 0,
+      "authors": [
+        "پروین اعتصامی"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    }
+  ],
+  "298": [
+    {
+      "id": 882,
+      "title": "بوف کور",
+      "format": "ebook",
+      "cover": "/covers/882.jpg",
+      "remoteCover": "https://img.taaghche.com/frontCover/882.jpg",
+      "finalPrice": 50000,
+      "price": 50000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.92,
+      "ratingsCount": 3775,
+      "authors": [
+        "صادق هدایت"
+      ],
+      "durationMin": null,
+      "pages": 87,
+      "inSubscription": true
+    },
+    {
+      "id": 19096,
+      "title": "مسخ",
+      "format": "ebook",
+      "cover": "/covers/19096.jpg",
+      "remoteCover": "https://img.taaghche.com/frontCover/19096.jpg",
+      "finalPrice": 5000,
+      "price": 5000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.6,
+      "ratingsCount": 746,
+      "authors": [
+        "فرانتس کافکا"
+      ],
+      "durationMin": null,
+      "pages": 71,
+      "inSubscription": true
+    },
+    {
+      "id": 71446,
+      "title": "پسرک، موش کور، روباه و اسب",
+      "format": "ebook",
+      "cover": "/covers/71446.jpg",
+      "remoteCover": "/covers/71446.jpg",
+      "finalPrice": 0,
+      "price": 125000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.27,
+      "ratingsCount": 0,
+      "authors": [
+        "چارلی مکسی"
+      ],
+      "durationMin": null,
+      "pages": 132,
+      "inSubscription": false
+    },
+    {
+      "id": 18870,
+      "title": "سلام بر ابراهیم (۱)",
+      "format": "ebook",
+      "cover": "/covers/18870.jpg",
+      "remoteCover": "/covers/18870.jpg",
+      "finalPrice": 0,
+      "price": 21000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.68,
+      "ratingsCount": 0,
+      "authors": [
+        "گروه نویسندگان"
+      ],
+      "durationMin": null,
+      "pages": 239,
+      "inSubscription": false
+    },
+    {
+      "id": 54965,
+      "title": "شب های روشن",
+      "format": "ebook",
+      "cover": "/covers/54965.jpg",
+      "remoteCover": "/covers/54965.jpg",
+      "finalPrice": 0,
+      "price": 80000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.93,
+      "ratingsCount": 0,
+      "authors": [
+        "فئودور داستایفسکی"
+      ],
+      "durationMin": null,
+      "pages": 111,
+      "inSubscription": false
+    },
+    {
+      "id": 17155,
+      "title": "شرط‌بندی",
+      "format": "ebook",
+      "cover": "/covers/17155.jpg",
+      "remoteCover": "/covers/17155.jpg",
+      "finalPrice": 0,
+      "price": 0,
+      "discountPercent": 0,
+      "free": true,
+      "rating": 4.54,
+      "ratingsCount": 0,
+      "authors": [
+        "آنتوان چخوف"
+      ],
+      "durationMin": null,
+      "pages": 13,
+      "inSubscription": false
+    }
+  ],
+  "108473": [
+    {
+      "id": 71446,
+      "title": "پسرک، موش کور، روباه و اسب",
+      "format": "ebook",
+      "cover": "/covers/71446.jpg",
+      "remoteCover": "https://img.taaghche.com/frontCover/71446.jpg",
+      "finalPrice": 125000,
+      "price": 125000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.27,
+      "ratingsCount": 4800,
+      "authors": [
+        "چارلی مکسی"
+      ],
+      "durationMin": null,
+      "pages": 132,
+      "inSubscription": true
+    },
+    {
+      "id": 95170,
+      "title": "کتابخانه نیمه شب",
+      "format": "ebook",
+      "cover": "/covers/95170.jpg",
+      "remoteCover": "https://img.taaghche.com/frontCover/95170.jpg",
+      "finalPrice": 117000,
+      "price": 117000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.28,
+      "ratingsCount": 7689,
+      "authors": [
+        "مت هیگ"
+      ],
+      "durationMin": null,
+      "pages": 352,
+      "inSubscription": true
+    },
+    {
+      "id": 35369,
+      "title": "چهار میثاق",
+      "format": "audiobook",
+      "cover": "/covers/35369.jpg",
+      "remoteCover": "/covers/35369.jpg",
+      "finalPrice": 0,
+      "price": 68000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.22,
+      "ratingsCount": 0,
+      "authors": [
+        "دون میگوئل روئیز"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 68779,
+      "title": "دنیای سوفی",
+      "format": "audiobook",
+      "cover": "/covers/68779.jpg",
+      "remoteCover": "/covers/68779.jpg",
+      "finalPrice": 0,
+      "price": 406000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.93,
+      "ratingsCount": 0,
+      "authors": [
+        "یوستین گوردر"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 82694,
+      "title": "چهار میثاق",
+      "format": "ebook",
+      "cover": "/covers/82694.jpg",
+      "remoteCover": "/covers/82694.jpg",
+      "finalPrice": 0,
+      "price": 70000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.07,
+      "ratingsCount": 0,
+      "authors": [
+        "دون میگوئل روئیز"
+      ],
+      "durationMin": null,
+      "pages": 136,
+      "inSubscription": false
+    },
+    {
+      "id": 88626,
+      "title": "نیروی حال",
+      "format": "ebook",
+      "cover": "/covers/88626.jpg",
+      "remoteCover": "/covers/88626.jpg",
+      "finalPrice": 0,
+      "price": 150000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.75,
+      "ratingsCount": 0,
+      "authors": [
+        "اکهارت  تله"
+      ],
+      "durationMin": null,
+      "pages": 262,
+      "inSubscription": false
+    }
+  ],
+  "196265": [
+    {
+      "id": 341452,
+      "title": "آیین های سار",
+      "format": "ebook",
+      "cover": "/covers/341452.jpg",
+      "remoteCover": "https://img.taaghche.com/frontCover/341452.jpg",
+      "finalPrice": 280000,
+      "price": 280000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.0,
+      "ratingsCount": 2,
+      "authors": [
+        "دونی پری"
+      ],
+      "durationMin": null,
+      "pages": 557,
+      "inSubscription": false
+    },
+    {
+      "id": 95170,
+      "title": "کتابخانه نیمه شب",
+      "format": "ebook",
+      "cover": "/covers/95170.jpg",
+      "remoteCover": "/covers/95170.jpg",
+      "finalPrice": 0,
+      "price": 117000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.28,
+      "ratingsCount": 0,
+      "authors": [
+        "مت هیگ"
+      ],
+      "durationMin": null,
+      "pages": 352,
+      "inSubscription": false
+    },
+    {
+      "id": 59164,
+      "title": "مغازه خودکشی",
+      "format": "audiobook",
+      "cover": "/covers/59164.jpg",
+      "remoteCover": "/covers/59164.jpg",
+      "finalPrice": 0,
+      "price": 154000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.0,
+      "ratingsCount": 0,
+      "authors": [
+        "ژان تولی"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 89835,
+      "title": "جزء از کل",
+      "format": "audiobook",
+      "cover": "/covers/89835.jpg",
+      "remoteCover": "/covers/89835.jpg",
+      "finalPrice": 0,
+      "price": 352000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.94,
+      "ratingsCount": 0,
+      "authors": [
+        "استیو تولتز"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 69675,
+      "title": "بامداد خمار",
+      "format": "audiobook",
+      "cover": "/covers/69675.jpg",
+      "remoteCover": "/covers/69675.jpg",
+      "finalPrice": 0,
+      "price": 387000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.22,
+      "ratingsCount": 0,
+      "authors": [
+        "فتانه حاج سید جوادی (پروین)"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 187855,
+      "title": "خاطرات یک آدم کش",
+      "format": "audiobook",
+      "cover": "/covers/187855.jpg",
+      "remoteCover": "/covers/187855.jpg",
+      "finalPrice": 0,
+      "price": 165000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.06,
+      "ratingsCount": 0,
+      "authors": [
+        "کیم یونگ ها"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    }
+  ],
+  "54131": [
+    {
+      "id": 68150,
+      "title": "معجزه (شکرگزاری)",
+      "format": "audiobook",
+      "cover": "/covers/68150.jpg",
+      "remoteCover": "/covers/68150.jpg",
+      "finalPrice": 0,
+      "price": 199000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.32,
+      "ratingsCount": 0,
+      "authors": [
+        "راندا برن"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 26357,
+      "title": "اثر مرکب",
+      "format": "audiobook",
+      "cover": "/covers/26357.jpg",
+      "remoteCover": "/covers/26357.jpg",
+      "finalPrice": 0,
+      "price": 19800,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.13,
+      "ratingsCount": 0,
+      "authors": [
+        "دارن هاردی"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 165476,
+      "title": "اول عاشق خودت باش",
+      "format": "audiobook",
+      "cover": "/covers/165476.jpg",
+      "remoteCover": "/covers/165476.jpg",
+      "finalPrice": 0,
+      "price": 40000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.12,
+      "ratingsCount": 0,
+      "authors": [
+        "مارک رکلاو"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 231572,
+      "title": "قدرت سکوت",
+      "format": "audiobook",
+      "cover": "/covers/231572.jpg",
+      "remoteCover": "/covers/231572.jpg",
+      "finalPrice": 0,
+      "price": 90000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.97,
+      "ratingsCount": 0,
+      "authors": [
+        "تیک نات هان"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 250852,
+      "title": "اجازه نده هر چیزی روی تو تاثیر بگذارد",
+      "format": "audiobook",
+      "cover": "/covers/250852.jpg",
+      "remoteCover": "/covers/250852.jpg",
+      "finalPrice": 0,
+      "price": 115000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.34,
+      "ratingsCount": 0,
+      "authors": [
+        "دنیل چیدیاک"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 4206,
+      "title": "انسان در جستجوی معنا",
+      "format": "ebook",
+      "cover": "/covers/4206.jpg",
+      "remoteCover": "/covers/4206.jpg",
+      "finalPrice": 0,
+      "price": 78000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.82,
+      "ratingsCount": 0,
+      "authors": [
+        "ویکتور فرانکل"
+      ],
+      "durationMin": null,
+      "pages": 168,
+      "inSubscription": false
+    }
+  ],
+  "54965": [
+    {
+      "id": 71446,
+      "title": "پسرک، موش کور، روباه و اسب",
+      "format": "ebook",
+      "cover": "/covers/71446.jpg",
+      "remoteCover": "/covers/71446.jpg",
+      "finalPrice": 0,
+      "price": 125000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.27,
+      "ratingsCount": 0,
+      "authors": [
+        "چارلی مکسی"
+      ],
+      "durationMin": null,
+      "pages": 132,
+      "inSubscription": false
+    },
+    {
+      "id": 298,
+      "title": "شاهنامه فردوسی",
+      "format": "ebook",
+      "cover": "/covers/298.jpg",
+      "remoteCover": "/covers/298.jpg",
+      "finalPrice": 0,
+      "price": 15000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.47,
+      "ratingsCount": 0,
+      "authors": [
+        "ابوالقاسم فردوسی"
+      ],
+      "durationMin": null,
+      "pages": 1000,
+      "inSubscription": false
+    },
+    {
+      "id": 882,
+      "title": "بوف کور",
+      "format": "ebook",
+      "cover": "/covers/882.jpg",
+      "remoteCover": "/covers/882.jpg",
+      "finalPrice": 0,
+      "price": 50000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.92,
+      "ratingsCount": 0,
+      "authors": [
+        "صادق هدایت"
+      ],
+      "durationMin": null,
+      "pages": 87,
+      "inSubscription": false
+    },
+    {
+      "id": 17155,
+      "title": "شرط‌بندی",
+      "format": "ebook",
+      "cover": "/covers/17155.jpg",
+      "remoteCover": "/covers/17155.jpg",
+      "finalPrice": 0,
+      "price": 0,
+      "discountPercent": 0,
+      "free": true,
+      "rating": 4.54,
+      "ratingsCount": 0,
+      "authors": [
+        "آنتوان چخوف"
+      ],
+      "durationMin": null,
+      "pages": 13,
+      "inSubscription": false
+    },
+    {
+      "id": 38422,
+      "title": "پروین اعتصامی",
+      "format": "ebook",
+      "cover": "/covers/38422.jpg",
+      "remoteCover": "/covers/38422.jpg",
+      "finalPrice": 0,
+      "price": 0,
+      "discountPercent": 0,
+      "free": true,
+      "rating": 4.46,
+      "ratingsCount": 0,
+      "authors": [
+        "پروین اعتصامی"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 19096,
+      "title": "مسخ",
+      "format": "ebook",
+      "cover": "/covers/19096.jpg",
+      "remoteCover": "/covers/19096.jpg",
+      "finalPrice": 0,
+      "price": 5000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.6,
+      "ratingsCount": 0,
+      "authors": [
+        "فرانتس کافکا"
+      ],
+      "durationMin": null,
+      "pages": 71,
+      "inSubscription": false
+    }
+  ],
+  "43195": [
+    {
+      "id": 70061,
+      "title": "نخل و نارنج",
+      "format": "ebook",
+      "cover": "/covers/70061.jpg",
+      "remoteCover": "https://img.taaghche.com/frontCover/70061.jpg",
+      "finalPrice": 185000,
+      "price": 185000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.65,
+      "ratingsCount": 1284,
+      "authors": [
+        "وحید یامین‌پور"
+      ],
+      "durationMin": null,
+      "pages": 248,
+      "inSubscription": false
+    },
+    {
+      "id": 71437,
+      "title": "یادت باشد",
+      "format": "audiobook",
+      "cover": "/covers/71437.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/71437.jpg",
+      "finalPrice": 55000,
+      "price": 55000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.53,
+      "ratingsCount": 2112,
+      "authors": [
+        "محمدرسول ملاحسنی"
+      ],
+      "durationMin": 536,
+      "pages": null,
+      "inSubscription": true
+    },
+    {
+      "id": 18870,
+      "title": "سلام بر ابراهیم (۱)",
+      "format": "ebook",
+      "cover": "/covers/18870.jpg",
+      "remoteCover": "/covers/18870.jpg",
+      "finalPrice": 0,
+      "price": 21000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.68,
+      "ratingsCount": 0,
+      "authors": [
+        "گروه نویسندگان"
+      ],
+      "durationMin": null,
+      "pages": 239,
+      "inSubscription": false
+    },
+    {
+      "id": 30388,
+      "title": "خاطرات سفیر",
+      "format": "ebook",
+      "cover": "/covers/30388.jpg",
+      "remoteCover": "/covers/30388.jpg",
+      "finalPrice": 0,
+      "price": 313000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.5,
+      "ratingsCount": 0,
+      "authors": [
+        "نیلوفر شادمهری"
+      ],
+      "durationMin": null,
+      "pages": 224,
+      "inSubscription": false
+    },
+    {
+      "id": 95170,
+      "title": "کتابخانه نیمه شب",
+      "format": "ebook",
+      "cover": "/covers/95170.jpg",
+      "remoteCover": "/covers/95170.jpg",
+      "finalPrice": 0,
+      "price": 117000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.28,
+      "ratingsCount": 0,
+      "authors": [
+        "مت هیگ"
+      ],
+      "durationMin": null,
+      "pages": 352,
+      "inSubscription": false
+    },
+    {
+      "id": 71446,
+      "title": "پسرک، موش کور، روباه و اسب",
+      "format": "ebook",
+      "cover": "/covers/71446.jpg",
+      "remoteCover": "/covers/71446.jpg",
+      "finalPrice": 0,
+      "price": 125000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.27,
+      "ratingsCount": 0,
+      "authors": [
+        "چارلی مکسی"
+      ],
+      "durationMin": null,
+      "pages": 132,
+      "inSubscription": false
+    }
+  ],
+  "70061": [
+    {
+      "id": 43195,
+      "title": "یادت باشد...",
+      "format": "ebook",
+      "cover": "/covers/43195.jpg",
+      "remoteCover": "https://img.taaghche.com/frontCover/43195.jpg",
+      "finalPrice": 30000,
+      "price": 30000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.77,
+      "ratingsCount": 2100,
+      "authors": [
+        "محمدرسول ملاحسنی"
+      ],
+      "durationMin": null,
+      "pages": 328,
+      "inSubscription": false
+    },
+    {
+      "id": 18870,
+      "title": "سلام بر ابراهیم (۱)",
+      "format": "ebook",
+      "cover": "/covers/18870.jpg",
+      "remoteCover": "/covers/18870.jpg",
+      "finalPrice": 0,
+      "price": 21000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.68,
+      "ratingsCount": 0,
+      "authors": [
+        "گروه نویسندگان"
+      ],
+      "durationMin": null,
+      "pages": 239,
+      "inSubscription": false
+    },
+    {
+      "id": 30388,
+      "title": "خاطرات سفیر",
+      "format": "ebook",
+      "cover": "/covers/30388.jpg",
+      "remoteCover": "/covers/30388.jpg",
+      "finalPrice": 0,
+      "price": 313000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.5,
+      "ratingsCount": 0,
+      "authors": [
+        "نیلوفر شادمهری"
+      ],
+      "durationMin": null,
+      "pages": 224,
+      "inSubscription": false
+    },
+    {
+      "id": 71437,
+      "title": "یادت باشد",
+      "format": "audiobook",
+      "cover": "/covers/71437.jpg",
+      "remoteCover": "/covers/71437.jpg",
+      "finalPrice": 0,
+      "price": 55000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.53,
+      "ratingsCount": 0,
+      "authors": [
+        "محمدرسول ملاحسنی"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 95170,
+      "title": "کتابخانه نیمه شب",
+      "format": "ebook",
+      "cover": "/covers/95170.jpg",
+      "remoteCover": "/covers/95170.jpg",
+      "finalPrice": 0,
+      "price": 117000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.28,
+      "ratingsCount": 0,
+      "authors": [
+        "مت هیگ"
+      ],
+      "durationMin": null,
+      "pages": 352,
+      "inSubscription": false
+    },
+    {
+      "id": 71446,
+      "title": "پسرک، موش کور، روباه و اسب",
+      "format": "ebook",
+      "cover": "/covers/71446.jpg",
+      "remoteCover": "/covers/71446.jpg",
+      "finalPrice": 0,
+      "price": 125000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.27,
+      "ratingsCount": 0,
+      "authors": [
+        "چارلی مکسی"
+      ],
+      "durationMin": null,
+      "pages": 132,
+      "inSubscription": false
+    }
+  ],
+  "4206": [
+    {
+      "id": 82694,
+      "title": "چهار میثاق",
+      "format": "ebook",
+      "cover": "/covers/82694.jpg",
+      "remoteCover": "https://img.taaghche.com/frontCover/82694.jpg",
+      "finalPrice": 70000,
+      "price": 70000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.07,
+      "ratingsCount": 267,
+      "authors": [
+        "دون میگوئل روئیز"
+      ],
+      "durationMin": null,
+      "pages": 136,
+      "inSubscription": true
+    },
+    {
+      "id": 68150,
+      "title": "معجزه (شکرگزاری)",
+      "format": "audiobook",
+      "cover": "/covers/68150.jpg",
+      "remoteCover": "/covers/68150.jpg",
+      "finalPrice": 0,
+      "price": 199000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.32,
+      "ratingsCount": 0,
+      "authors": [
+        "راندا برن"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 26357,
+      "title": "اثر مرکب",
+      "format": "audiobook",
+      "cover": "/covers/26357.jpg",
+      "remoteCover": "/covers/26357.jpg",
+      "finalPrice": 0,
+      "price": 19800,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.13,
+      "ratingsCount": 0,
+      "authors": [
+        "دارن هاردی"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 165476,
+      "title": "اول عاشق خودت باش",
+      "format": "audiobook",
+      "cover": "/covers/165476.jpg",
+      "remoteCover": "/covers/165476.jpg",
+      "finalPrice": 0,
+      "price": 40000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.12,
+      "ratingsCount": 0,
+      "authors": [
+        "مارک رکلاو"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 54131,
+      "title": "عادت های اتمی",
+      "format": "ebook",
+      "cover": "/covers/54131.jpg",
+      "remoteCover": "/covers/54131.jpg",
+      "finalPrice": 0,
+      "price": 99000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.09,
+      "ratingsCount": 0,
+      "authors": [
+        "جیمز کلیر"
+      ],
+      "durationMin": null,
+      "pages": 275,
+      "inSubscription": false
+    },
+    {
+      "id": 231572,
+      "title": "قدرت سکوت",
+      "format": "audiobook",
+      "cover": "/covers/231572.jpg",
+      "remoteCover": "/covers/231572.jpg",
+      "finalPrice": 0,
+      "price": 90000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.97,
+      "ratingsCount": 0,
+      "authors": [
+        "تیک نات هان"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    }
+  ],
+  "139526": [
+    {
+      "id": 95170,
+      "title": "کتابخانه نیمه شب",
+      "format": "ebook",
+      "cover": "/covers/95170.jpg",
+      "remoteCover": "/covers/95170.jpg",
+      "finalPrice": 0,
+      "price": 117000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.28,
+      "ratingsCount": 0,
+      "authors": [
+        "مت هیگ"
+      ],
+      "durationMin": null,
+      "pages": 352,
+      "inSubscription": false
+    },
+    {
+      "id": 59164,
+      "title": "مغازه خودکشی",
+      "format": "audiobook",
+      "cover": "/covers/59164.jpg",
+      "remoteCover": "/covers/59164.jpg",
+      "finalPrice": 0,
+      "price": 154000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.0,
+      "ratingsCount": 0,
+      "authors": [
+        "ژان تولی"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 89835,
+      "title": "جزء از کل",
+      "format": "audiobook",
+      "cover": "/covers/89835.jpg",
+      "remoteCover": "/covers/89835.jpg",
+      "finalPrice": 0,
+      "price": 352000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.94,
+      "ratingsCount": 0,
+      "authors": [
+        "استیو تولتز"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 196265,
+      "title": "بخش دی",
+      "format": "ebook",
+      "cover": "/covers/196265.jpg",
+      "remoteCover": "/covers/196265.jpg",
+      "finalPrice": 0,
+      "price": 180000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.32,
+      "ratingsCount": 0,
+      "authors": [
+        "فریدا مک فادن"
+      ],
+      "durationMin": null,
+      "pages": 264,
+      "inSubscription": false
+    },
+    {
+      "id": 69675,
+      "title": "بامداد خمار",
+      "format": "audiobook",
+      "cover": "/covers/69675.jpg",
+      "remoteCover": "/covers/69675.jpg",
+      "finalPrice": 0,
+      "price": 387000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.22,
+      "ratingsCount": 0,
+      "authors": [
+        "فتانه حاج سید جوادی (پروین)"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 187855,
+      "title": "خاطرات یک آدم کش",
+      "format": "audiobook",
+      "cover": "/covers/187855.jpg",
+      "remoteCover": "/covers/187855.jpg",
+      "finalPrice": 0,
+      "price": 165000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.06,
+      "ratingsCount": 0,
+      "authors": [
+        "کیم یونگ ها"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    }
+  ],
+  "117073": [
+    {
+      "id": 95170,
+      "title": "کتابخانه نیمه شب",
+      "format": "ebook",
+      "cover": "/covers/95170.jpg",
+      "remoteCover": "/covers/95170.jpg",
+      "finalPrice": 0,
+      "price": 117000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.28,
+      "ratingsCount": 0,
+      "authors": [
+        "مت هیگ"
+      ],
+      "durationMin": null,
+      "pages": 352,
+      "inSubscription": false
+    },
+    {
+      "id": 59164,
+      "title": "مغازه خودکشی",
+      "format": "audiobook",
+      "cover": "/covers/59164.jpg",
+      "remoteCover": "/covers/59164.jpg",
+      "finalPrice": 0,
+      "price": 154000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.0,
+      "ratingsCount": 0,
+      "authors": [
+        "ژان تولی"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 89835,
+      "title": "جزء از کل",
+      "format": "audiobook",
+      "cover": "/covers/89835.jpg",
+      "remoteCover": "/covers/89835.jpg",
+      "finalPrice": 0,
+      "price": 352000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.94,
+      "ratingsCount": 0,
+      "authors": [
+        "استیو تولتز"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 196265,
+      "title": "بخش دی",
+      "format": "ebook",
+      "cover": "/covers/196265.jpg",
+      "remoteCover": "/covers/196265.jpg",
+      "finalPrice": 0,
+      "price": 180000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.32,
+      "ratingsCount": 0,
+      "authors": [
+        "فریدا مک فادن"
+      ],
+      "durationMin": null,
+      "pages": 264,
+      "inSubscription": false
+    },
+    {
+      "id": 69675,
+      "title": "بامداد خمار",
+      "format": "audiobook",
+      "cover": "/covers/69675.jpg",
+      "remoteCover": "/covers/69675.jpg",
+      "finalPrice": 0,
+      "price": 387000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.22,
+      "ratingsCount": 0,
+      "authors": [
+        "فتانه حاج سید جوادی (پروین)"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 187855,
+      "title": "خاطرات یک آدم کش",
+      "format": "audiobook",
+      "cover": "/covers/187855.jpg",
+      "remoteCover": "/covers/187855.jpg",
+      "finalPrice": 0,
+      "price": 165000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.06,
+      "ratingsCount": 0,
+      "authors": [
+        "کیم یونگ ها"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    }
+  ],
+  "6426": [
+    {
+      "id": 139526,
+      "title": "مرگ ایوان ایلیچ",
+      "format": "ebook",
+      "cover": "/covers/139526.jpg",
+      "remoteCover": "https://img.taaghche.com/frontCover/139526.jpg",
+      "finalPrice": 94000,
+      "price": 94000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.87,
+      "ratingsCount": 1157,
+      "authors": [
+        "لئو تولستوی"
+      ],
+      "durationMin": null,
+      "pages": 103,
+      "inSubscription": true
+    },
+    {
+      "id": 72107,
+      "title": "شازده کوچولو",
+      "format": "audiobook",
+      "cover": "/covers/72107.jpg",
+      "remoteCover": "/covers/72107.jpg",
+      "finalPrice": 0,
+      "price": 15000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.37,
+      "ratingsCount": 0,
+      "authors": [
+        "آنتوان دوسنت اگزوپری"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 71446,
+      "title": "پسرک، موش کور، روباه و اسب",
+      "format": "ebook",
+      "cover": "/covers/71446.jpg",
+      "remoteCover": "/covers/71446.jpg",
+      "finalPrice": 0,
+      "price": 125000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.27,
+      "ratingsCount": 0,
+      "authors": [
+        "چارلی مکسی"
+      ],
+      "durationMin": null,
+      "pages": 132,
+      "inSubscription": false
+    },
+    {
+      "id": 71238,
+      "title": "هری پاتر و سنگ جادو",
+      "format": "audiobook",
+      "cover": "/covers/71238.jpg",
+      "remoteCover": "/covers/71238.jpg",
+      "finalPrice": 0,
+      "price": 296000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.39,
+      "ratingsCount": 0,
+      "authors": [
+        "جی.کی. رولینگ"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 204141,
+      "title": "بازی های میراث",
+      "format": "ebook",
+      "cover": "/covers/204141.jpg",
+      "remoteCover": "/covers/204141.jpg",
+      "finalPrice": 0,
+      "price": 180000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.88,
+      "ratingsCount": 0,
+      "authors": [
+        "جنیفر لین بارنز"
+      ],
+      "durationMin": null,
+      "pages": 360,
+      "inSubscription": false
+    },
+    {
+      "id": 150375,
+      "title": "هری پاتر و سنگ کیمیا",
+      "format": "ebook",
+      "cover": "/covers/150375.jpg",
+      "remoteCover": "/covers/150375.jpg",
+      "finalPrice": 0,
+      "price": 120000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.32,
+      "ratingsCount": 0,
+      "authors": [
+        "جی. کی. رولینگ"
+      ],
+      "durationMin": null,
+      "pages": 280,
+      "inSubscription": false
+    }
+  ],
+  "38422": [
+    {
+      "id": 71446,
+      "title": "پسرک، موش کور، روباه و اسب",
+      "format": "ebook",
+      "cover": "/covers/71446.jpg",
+      "remoteCover": "/covers/71446.jpg",
+      "finalPrice": 0,
+      "price": 125000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.27,
+      "ratingsCount": 0,
+      "authors": [
+        "چارلی مکسی"
+      ],
+      "durationMin": null,
+      "pages": 132,
+      "inSubscription": false
+    },
+    {
+      "id": 298,
+      "title": "شاهنامه فردوسی",
+      "format": "ebook",
+      "cover": "/covers/298.jpg",
+      "remoteCover": "/covers/298.jpg",
+      "finalPrice": 0,
+      "price": 15000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.47,
+      "ratingsCount": 0,
+      "authors": [
+        "ابوالقاسم فردوسی"
+      ],
+      "durationMin": null,
+      "pages": 1000,
+      "inSubscription": false
+    },
+    {
+      "id": 882,
+      "title": "بوف کور",
+      "format": "ebook",
+      "cover": "/covers/882.jpg",
+      "remoteCover": "/covers/882.jpg",
+      "finalPrice": 0,
+      "price": 50000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.92,
+      "ratingsCount": 0,
+      "authors": [
+        "صادق هدایت"
+      ],
+      "durationMin": null,
+      "pages": 87,
+      "inSubscription": false
+    },
+    {
+      "id": 54965,
+      "title": "شب های روشن",
+      "format": "ebook",
+      "cover": "/covers/54965.jpg",
+      "remoteCover": "/covers/54965.jpg",
+      "finalPrice": 0,
+      "price": 80000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.93,
+      "ratingsCount": 0,
+      "authors": [
+        "فئودور داستایفسکی"
+      ],
+      "durationMin": null,
+      "pages": 111,
+      "inSubscription": false
+    },
+    {
+      "id": 17155,
+      "title": "شرط‌بندی",
+      "format": "ebook",
+      "cover": "/covers/17155.jpg",
+      "remoteCover": "/covers/17155.jpg",
+      "finalPrice": 0,
+      "price": 0,
+      "discountPercent": 0,
+      "free": true,
+      "rating": 4.54,
+      "ratingsCount": 0,
+      "authors": [
+        "آنتوان چخوف"
+      ],
+      "durationMin": null,
+      "pages": 13,
+      "inSubscription": false
+    },
+    {
+      "id": 19096,
+      "title": "مسخ",
+      "format": "ebook",
+      "cover": "/covers/19096.jpg",
+      "remoteCover": "/covers/19096.jpg",
+      "finalPrice": 0,
+      "price": 5000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.6,
+      "ratingsCount": 0,
+      "authors": [
+        "فرانتس کافکا"
+      ],
+      "durationMin": null,
+      "pages": 71,
+      "inSubscription": false
+    }
+  ],
+  "19096": [
+    {
+      "id": 882,
+      "title": "بوف کور",
+      "format": "ebook",
+      "cover": "/covers/882.jpg",
+      "remoteCover": "https://img.taaghche.com/frontCover/882.jpg",
+      "finalPrice": 50000,
+      "price": 50000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.92,
+      "ratingsCount": 3775,
+      "authors": [
+        "صادق هدایت"
+      ],
+      "durationMin": null,
+      "pages": 87,
+      "inSubscription": true
+    },
+    {
+      "id": 298,
+      "title": "شاهنامه فردوسی",
+      "format": "ebook",
+      "cover": "/covers/298.jpg",
+      "remoteCover": "https://img.taaghche.com/frontCover/298.jpg",
+      "finalPrice": 15000,
+      "price": 15000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.47,
+      "ratingsCount": 3518,
+      "authors": [
+        "ابوالقاسم فردوسی"
+      ],
+      "durationMin": null,
+      "pages": 1000,
+      "inSubscription": true
+    },
+    {
+      "id": 71446,
+      "title": "پسرک، موش کور، روباه و اسب",
+      "format": "ebook",
+      "cover": "/covers/71446.jpg",
+      "remoteCover": "/covers/71446.jpg",
+      "finalPrice": 0,
+      "price": 125000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.27,
+      "ratingsCount": 0,
+      "authors": [
+        "چارلی مکسی"
+      ],
+      "durationMin": null,
+      "pages": 132,
+      "inSubscription": false
+    },
+    {
+      "id": 54965,
+      "title": "شب های روشن",
+      "format": "ebook",
+      "cover": "/covers/54965.jpg",
+      "remoteCover": "/covers/54965.jpg",
+      "finalPrice": 0,
+      "price": 80000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.93,
+      "ratingsCount": 0,
+      "authors": [
+        "فئودور داستایفسکی"
+      ],
+      "durationMin": null,
+      "pages": 111,
+      "inSubscription": false
+    },
+    {
+      "id": 17155,
+      "title": "شرط‌بندی",
+      "format": "ebook",
+      "cover": "/covers/17155.jpg",
+      "remoteCover": "/covers/17155.jpg",
+      "finalPrice": 0,
+      "price": 0,
+      "discountPercent": 0,
+      "free": true,
+      "rating": 4.54,
+      "ratingsCount": 0,
+      "authors": [
+        "آنتوان چخوف"
+      ],
+      "durationMin": null,
+      "pages": 13,
+      "inSubscription": false
+    },
+    {
+      "id": 38422,
+      "title": "پروین اعتصامی",
+      "format": "ebook",
+      "cover": "/covers/38422.jpg",
+      "remoteCover": "/covers/38422.jpg",
+      "finalPrice": 0,
+      "price": 0,
+      "discountPercent": 0,
+      "free": true,
+      "rating": 4.46,
+      "ratingsCount": 0,
+      "authors": [
+        "پروین اعتصامی"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    }
+  ],
+  "200582": [
+    {
+      "id": 68150,
+      "title": "معجزه (شکرگزاری)",
+      "format": "audiobook",
+      "cover": "/covers/68150.jpg",
+      "remoteCover": "/covers/68150.jpg",
+      "finalPrice": 0,
+      "price": 199000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.32,
+      "ratingsCount": 0,
+      "authors": [
+        "راندا برن"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 26357,
+      "title": "اثر مرکب",
+      "format": "audiobook",
+      "cover": "/covers/26357.jpg",
+      "remoteCover": "/covers/26357.jpg",
+      "finalPrice": 0,
+      "price": 19800,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.13,
+      "ratingsCount": 0,
+      "authors": [
+        "دارن هاردی"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 165476,
+      "title": "اول عاشق خودت باش",
+      "format": "audiobook",
+      "cover": "/covers/165476.jpg",
+      "remoteCover": "/covers/165476.jpg",
+      "finalPrice": 0,
+      "price": 40000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.12,
+      "ratingsCount": 0,
+      "authors": [
+        "مارک رکلاو"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 54131,
+      "title": "عادت های اتمی",
+      "format": "ebook",
+      "cover": "/covers/54131.jpg",
+      "remoteCover": "/covers/54131.jpg",
+      "finalPrice": 0,
+      "price": 99000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.09,
+      "ratingsCount": 0,
+      "authors": [
+        "جیمز کلیر"
+      ],
+      "durationMin": null,
+      "pages": 275,
+      "inSubscription": false
+    },
+    {
+      "id": 231572,
+      "title": "قدرت سکوت",
+      "format": "audiobook",
+      "cover": "/covers/231572.jpg",
+      "remoteCover": "/covers/231572.jpg",
+      "finalPrice": 0,
+      "price": 90000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.97,
+      "ratingsCount": 0,
+      "authors": [
+        "تیک نات هان"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 250852,
+      "title": "اجازه نده هر چیزی روی تو تاثیر بگذارد",
+      "format": "audiobook",
+      "cover": "/covers/250852.jpg",
+      "remoteCover": "/covers/250852.jpg",
+      "finalPrice": 0,
+      "price": 115000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.34,
+      "ratingsCount": 0,
+      "authors": [
+        "دنیل چیدیاک"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    }
+  ],
+  "141255": [
+    {
+      "id": 141438,
+      "title": "بامداد خمار",
+      "format": "ebook",
+      "cover": "/covers/141438.jpg",
+      "remoteCover": "https://img.taaghche.com/frontCover/141438.jpg",
+      "finalPrice": 400000,
+      "price": 400000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.93,
+      "ratingsCount": 1678,
+      "authors": [
+        "فتانه حاج سید جوادی (پروین)"
+      ],
+      "durationMin": null,
+      "pages": 448,
+      "inSubscription": false
+    },
+    {
+      "id": 71446,
+      "title": "پسرک، موش کور، روباه و اسب",
+      "format": "ebook",
+      "cover": "/covers/71446.jpg",
+      "remoteCover": "/covers/71446.jpg",
+      "finalPrice": 0,
+      "price": 125000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.27,
+      "ratingsCount": 0,
+      "authors": [
+        "چارلی مکسی"
+      ],
+      "durationMin": null,
+      "pages": 132,
+      "inSubscription": false
+    },
+    {
+      "id": 298,
+      "title": "شاهنامه فردوسی",
+      "format": "ebook",
+      "cover": "/covers/298.jpg",
+      "remoteCover": "/covers/298.jpg",
+      "finalPrice": 0,
+      "price": 15000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.47,
+      "ratingsCount": 0,
+      "authors": [
+        "ابوالقاسم فردوسی"
+      ],
+      "durationMin": null,
+      "pages": 1000,
+      "inSubscription": false
+    },
+    {
+      "id": 882,
+      "title": "بوف کور",
+      "format": "ebook",
+      "cover": "/covers/882.jpg",
+      "remoteCover": "/covers/882.jpg",
+      "finalPrice": 0,
+      "price": 50000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.92,
+      "ratingsCount": 0,
+      "authors": [
+        "صادق هدایت"
+      ],
+      "durationMin": null,
+      "pages": 87,
+      "inSubscription": false
+    },
+    {
+      "id": 54965,
+      "title": "شب های روشن",
+      "format": "ebook",
+      "cover": "/covers/54965.jpg",
+      "remoteCover": "/covers/54965.jpg",
+      "finalPrice": 0,
+      "price": 80000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.93,
+      "ratingsCount": 0,
+      "authors": [
+        "فئودور داستایفسکی"
+      ],
+      "durationMin": null,
+      "pages": 111,
+      "inSubscription": false
+    },
+    {
+      "id": 17155,
+      "title": "شرط‌بندی",
+      "format": "ebook",
+      "cover": "/covers/17155.jpg",
+      "remoteCover": "/covers/17155.jpg",
+      "finalPrice": 0,
+      "price": 0,
+      "discountPercent": 0,
+      "free": true,
+      "rating": 4.54,
+      "ratingsCount": 0,
+      "authors": [
+        "آنتوان چخوف"
+      ],
+      "durationMin": null,
+      "pages": 13,
+      "inSubscription": false
+    }
+  ],
+  "204141": [
+    {
+      "id": 341452,
+      "title": "آیین های سار",
+      "format": "ebook",
+      "cover": "/covers/341452.jpg",
+      "remoteCover": "https://img.taaghche.com/frontCover/341452.jpg",
+      "finalPrice": 280000,
+      "price": 280000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.0,
+      "ratingsCount": 2,
+      "authors": [
+        "دونی پری"
+      ],
+      "durationMin": null,
+      "pages": 557,
+      "inSubscription": false
+    },
+    {
+      "id": 72107,
+      "title": "شازده کوچولو",
+      "format": "audiobook",
+      "cover": "/covers/72107.jpg",
+      "remoteCover": "/covers/72107.jpg",
+      "finalPrice": 0,
+      "price": 15000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.37,
+      "ratingsCount": 0,
+      "authors": [
+        "آنتوان دوسنت اگزوپری"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 71446,
+      "title": "پسرک، موش کور، روباه و اسب",
+      "format": "ebook",
+      "cover": "/covers/71446.jpg",
+      "remoteCover": "/covers/71446.jpg",
+      "finalPrice": 0,
+      "price": 125000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.27,
+      "ratingsCount": 0,
+      "authors": [
+        "چارلی مکسی"
+      ],
+      "durationMin": null,
+      "pages": 132,
+      "inSubscription": false
+    },
+    {
+      "id": 71238,
+      "title": "هری پاتر و سنگ جادو",
+      "format": "audiobook",
+      "cover": "/covers/71238.jpg",
+      "remoteCover": "/covers/71238.jpg",
+      "finalPrice": 0,
+      "price": 296000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.39,
+      "ratingsCount": 0,
+      "authors": [
+        "جی.کی. رولینگ"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 6426,
+      "title": "شازده کوچولو",
+      "format": "ebook",
+      "cover": "/covers/6426.jpg",
+      "remoteCover": "/covers/6426.jpg",
+      "finalPrice": 0,
+      "price": 58500,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.41,
+      "ratingsCount": 0,
+      "authors": [
+        "آنتوان دوسنت اگزوپری"
+      ],
+      "durationMin": null,
+      "pages": 192,
+      "inSubscription": false
+    },
+    {
+      "id": 150375,
+      "title": "هری پاتر و سنگ کیمیا",
+      "format": "ebook",
+      "cover": "/covers/150375.jpg",
+      "remoteCover": "/covers/150375.jpg",
+      "finalPrice": 0,
+      "price": 120000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.32,
+      "ratingsCount": 0,
+      "authors": [
+        "جی. کی. رولینگ"
+      ],
+      "durationMin": null,
+      "pages": 280,
+      "inSubscription": false
+    }
+  ],
+  "125674": [
+    {
+      "id": 68150,
+      "title": "معجزه (شکرگزاری)",
+      "format": "audiobook",
+      "cover": "/covers/68150.jpg",
+      "remoteCover": "/covers/68150.jpg",
+      "finalPrice": 0,
+      "price": 199000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.32,
+      "ratingsCount": 0,
+      "authors": [
+        "راندا برن"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 26357,
+      "title": "اثر مرکب",
+      "format": "audiobook",
+      "cover": "/covers/26357.jpg",
+      "remoteCover": "/covers/26357.jpg",
+      "finalPrice": 0,
+      "price": 19800,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.13,
+      "ratingsCount": 0,
+      "authors": [
+        "دارن هاردی"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 165476,
+      "title": "اول عاشق خودت باش",
+      "format": "audiobook",
+      "cover": "/covers/165476.jpg",
+      "remoteCover": "/covers/165476.jpg",
+      "finalPrice": 0,
+      "price": 40000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.12,
+      "ratingsCount": 0,
+      "authors": [
+        "مارک رکلاو"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 54131,
+      "title": "عادت های اتمی",
+      "format": "ebook",
+      "cover": "/covers/54131.jpg",
+      "remoteCover": "/covers/54131.jpg",
+      "finalPrice": 0,
+      "price": 99000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.09,
+      "ratingsCount": 0,
+      "authors": [
+        "جیمز کلیر"
+      ],
+      "durationMin": null,
+      "pages": 275,
+      "inSubscription": false
+    },
+    {
+      "id": 231572,
+      "title": "قدرت سکوت",
+      "format": "audiobook",
+      "cover": "/covers/231572.jpg",
+      "remoteCover": "/covers/231572.jpg",
+      "finalPrice": 0,
+      "price": 90000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.97,
+      "ratingsCount": 0,
+      "authors": [
+        "تیک نات هان"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 250852,
+      "title": "اجازه نده هر چیزی روی تو تاثیر بگذارد",
+      "format": "audiobook",
+      "cover": "/covers/250852.jpg",
+      "remoteCover": "/covers/250852.jpg",
+      "finalPrice": 0,
+      "price": 115000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.34,
+      "ratingsCount": 0,
+      "authors": [
+        "دنیل چیدیاک"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    }
+  ],
+  "37812": [
+    {
+      "id": 298,
+      "title": "شاهنامه فردوسی",
+      "format": "ebook",
+      "cover": "/covers/298.jpg",
+      "remoteCover": "/covers/298.jpg",
+      "finalPrice": 0,
+      "price": 15000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.47,
+      "ratingsCount": 0,
+      "authors": [
+        "ابوالقاسم فردوسی"
+      ],
+      "durationMin": null,
+      "pages": 1000,
+      "inSubscription": false
+    },
+    {
+      "id": 118620,
+      "title": "خون دلی که لعل شد",
+      "format": "ebook",
+      "cover": "/covers/118620.jpg",
+      "remoteCover": "/covers/118620.jpg",
+      "finalPrice": 0,
+      "price": 228000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.36,
+      "ratingsCount": 0,
+      "authors": [
+        "سید‌علی خامنه‌ای"
+      ],
+      "durationMin": null,
+      "pages": 432,
+      "inSubscription": false
+    },
+    {
+      "id": 95170,
+      "title": "کتابخانه نیمه شب",
+      "format": "ebook",
+      "cover": "/covers/95170.jpg",
+      "remoteCover": "/covers/95170.jpg",
+      "finalPrice": 0,
+      "price": 117000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.28,
+      "ratingsCount": 0,
+      "authors": [
+        "مت هیگ"
+      ],
+      "durationMin": null,
+      "pages": 352,
+      "inSubscription": false
+    },
+    {
+      "id": 71446,
+      "title": "پسرک، موش کور، روباه و اسب",
+      "format": "ebook",
+      "cover": "/covers/71446.jpg",
+      "remoteCover": "/covers/71446.jpg",
+      "finalPrice": 0,
+      "price": 125000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.27,
+      "ratingsCount": 0,
+      "authors": [
+        "چارلی مکسی"
+      ],
+      "durationMin": null,
+      "pages": 132,
+      "inSubscription": false
+    },
+    {
+      "id": 882,
+      "title": "بوف کور",
+      "format": "ebook",
+      "cover": "/covers/882.jpg",
+      "remoteCover": "/covers/882.jpg",
+      "finalPrice": 0,
+      "price": 50000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.92,
+      "ratingsCount": 0,
+      "authors": [
+        "صادق هدایت"
+      ],
+      "durationMin": null,
+      "pages": 87,
+      "inSubscription": false
+    },
+    {
+      "id": 108473,
+      "title": "پاندای بزرگ و اژدهای کوچک",
+      "format": "ebook",
+      "cover": "/covers/108473.jpg",
+      "remoteCover": "/covers/108473.jpg",
+      "finalPrice": 0,
+      "price": 125000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.31,
+      "ratingsCount": 0,
+      "authors": [
+        "جیمز نوربری"
+      ],
+      "durationMin": null,
+      "pages": 160,
+      "inSubscription": false
+    }
+  ],
+  "82694": [
+    {
+      "id": 108473,
+      "title": "پاندای بزرگ و اژدهای کوچک",
+      "format": "ebook",
+      "cover": "/covers/108473.jpg",
+      "remoteCover": "/covers/108473.jpg",
+      "finalPrice": 0,
+      "price": 125000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.31,
+      "ratingsCount": 0,
+      "authors": [
+        "جیمز نوربری"
+      ],
+      "durationMin": null,
+      "pages": 160,
+      "inSubscription": false
+    },
+    {
+      "id": 35369,
+      "title": "چهار میثاق",
+      "format": "audiobook",
+      "cover": "/covers/35369.jpg",
+      "remoteCover": "/covers/35369.jpg",
+      "finalPrice": 0,
+      "price": 68000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.22,
+      "ratingsCount": 0,
+      "authors": [
+        "دون میگوئل روئیز"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 68779,
+      "title": "دنیای سوفی",
+      "format": "audiobook",
+      "cover": "/covers/68779.jpg",
+      "remoteCover": "/covers/68779.jpg",
+      "finalPrice": 0,
+      "price": 406000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.93,
+      "ratingsCount": 0,
+      "authors": [
+        "یوستین گوردر"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 88626,
+      "title": "نیروی حال",
+      "format": "ebook",
+      "cover": "/covers/88626.jpg",
+      "remoteCover": "/covers/88626.jpg",
+      "finalPrice": 0,
+      "price": 150000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.75,
+      "ratingsCount": 0,
+      "authors": [
+        "اکهارت  تله"
+      ],
+      "durationMin": null,
+      "pages": 262,
+      "inSubscription": false
+    },
+    {
+      "id": 95170,
+      "title": "کتابخانه نیمه شب",
+      "format": "ebook",
+      "cover": "/covers/95170.jpg",
+      "remoteCover": "/covers/95170.jpg",
+      "finalPrice": 0,
+      "price": 117000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.28,
+      "ratingsCount": 0,
+      "authors": [
+        "مت هیگ"
+      ],
+      "durationMin": null,
+      "pages": 352,
+      "inSubscription": false
+    },
+    {
+      "id": 71446,
+      "title": "پسرک، موش کور، روباه و اسب",
+      "format": "ebook",
+      "cover": "/covers/71446.jpg",
+      "remoteCover": "/covers/71446.jpg",
+      "finalPrice": 0,
+      "price": 125000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.27,
+      "ratingsCount": 0,
+      "authors": [
+        "چارلی مکسی"
+      ],
+      "durationMin": null,
+      "pages": 132,
+      "inSubscription": false
+    }
+  ],
+  "88626": [
+    {
+      "id": 82694,
+      "title": "چهار میثاق",
+      "format": "ebook",
+      "cover": "/covers/82694.jpg",
+      "remoteCover": "https://img.taaghche.com/frontCover/82694.jpg",
+      "finalPrice": 70000,
+      "price": 70000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.07,
+      "ratingsCount": 267,
+      "authors": [
+        "دون میگوئل روئیز"
+      ],
+      "durationMin": null,
+      "pages": 136,
+      "inSubscription": true
+    },
+    {
+      "id": 108473,
+      "title": "پاندای بزرگ و اژدهای کوچک",
+      "format": "ebook",
+      "cover": "/covers/108473.jpg",
+      "remoteCover": "/covers/108473.jpg",
+      "finalPrice": 0,
+      "price": 125000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.31,
+      "ratingsCount": 0,
+      "authors": [
+        "جیمز نوربری"
+      ],
+      "durationMin": null,
+      "pages": 160,
+      "inSubscription": false
+    },
+    {
+      "id": 35369,
+      "title": "چهار میثاق",
+      "format": "audiobook",
+      "cover": "/covers/35369.jpg",
+      "remoteCover": "/covers/35369.jpg",
+      "finalPrice": 0,
+      "price": 68000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.22,
+      "ratingsCount": 0,
+      "authors": [
+        "دون میگوئل روئیز"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 68779,
+      "title": "دنیای سوفی",
+      "format": "audiobook",
+      "cover": "/covers/68779.jpg",
+      "remoteCover": "/covers/68779.jpg",
+      "finalPrice": 0,
+      "price": 406000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.93,
+      "ratingsCount": 0,
+      "authors": [
+        "یوستین گوردر"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 200582,
+      "title": "بدن فراموش نمی کند",
+      "format": "ebook",
+      "cover": "/covers/200582.jpg",
+      "remoteCover": "/covers/200582.jpg",
+      "finalPrice": 0,
+      "price": 210000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.29,
+      "ratingsCount": 0,
+      "authors": [
+        "بسل ون درکولک"
+      ],
+      "durationMin": null,
+      "pages": 552,
+      "inSubscription": false
+    },
+    {
+      "id": 125674,
+      "title": "دنیای دوپامین",
+      "format": "ebook",
+      "cover": "/covers/125674.jpg",
+      "remoteCover": "/covers/125674.jpg",
+      "finalPrice": 0,
+      "price": 50000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.71,
+      "ratingsCount": 0,
+      "authors": [
+        "آنا لمکی"
+      ],
+      "durationMin": null,
+      "pages": 208,
+      "inSubscription": false
+    }
+  ],
+  "150375": [
+    {
+      "id": 72107,
+      "title": "شازده کوچولو",
+      "format": "audiobook",
+      "cover": "/covers/72107.jpg",
+      "remoteCover": "/covers/72107.jpg",
+      "finalPrice": 0,
+      "price": 15000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.37,
+      "ratingsCount": 0,
+      "authors": [
+        "آنتوان دوسنت اگزوپری"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 71446,
+      "title": "پسرک، موش کور، روباه و اسب",
+      "format": "ebook",
+      "cover": "/covers/71446.jpg",
+      "remoteCover": "/covers/71446.jpg",
+      "finalPrice": 0,
+      "price": 125000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.27,
+      "ratingsCount": 0,
+      "authors": [
+        "چارلی مکسی"
+      ],
+      "durationMin": null,
+      "pages": 132,
+      "inSubscription": false
+    },
+    {
+      "id": 71238,
+      "title": "هری پاتر و سنگ جادو",
+      "format": "audiobook",
+      "cover": "/covers/71238.jpg",
+      "remoteCover": "/covers/71238.jpg",
+      "finalPrice": 0,
+      "price": 296000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.39,
+      "ratingsCount": 0,
+      "authors": [
+        "جی.کی. رولینگ"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 6426,
+      "title": "شازده کوچولو",
+      "format": "ebook",
+      "cover": "/covers/6426.jpg",
+      "remoteCover": "/covers/6426.jpg",
+      "finalPrice": 0,
+      "price": 58500,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.41,
+      "ratingsCount": 0,
+      "authors": [
+        "آنتوان دوسنت اگزوپری"
+      ],
+      "durationMin": null,
+      "pages": 192,
+      "inSubscription": false
+    },
+    {
+      "id": 204141,
+      "title": "بازی های میراث",
+      "format": "ebook",
+      "cover": "/covers/204141.jpg",
+      "remoteCover": "/covers/204141.jpg",
+      "finalPrice": 0,
+      "price": 180000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.88,
+      "ratingsCount": 0,
+      "authors": [
+        "جنیفر لین بارنز"
+      ],
+      "durationMin": null,
+      "pages": 360,
+      "inSubscription": false
+    },
+    {
+      "id": 336718,
+      "title": "پژواک",
+      "format": "ebook",
+      "cover": "/covers/336718.jpg",
+      "remoteCover": "/covers/336718.jpg",
+      "finalPrice": 0,
+      "price": 527400,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 0.0,
+      "ratingsCount": 0,
+      "authors": [
+        "پم مونیوس رایان"
+      ],
+      "durationMin": null,
+      "pages": 564,
+      "inSubscription": false
+    }
+  ],
+  "118620": [
+    {
+      "id": 298,
+      "title": "شاهنامه فردوسی",
+      "format": "ebook",
+      "cover": "/covers/298.jpg",
+      "remoteCover": "/covers/298.jpg",
+      "finalPrice": 0,
+      "price": 15000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.47,
+      "ratingsCount": 0,
+      "authors": [
+        "ابوالقاسم فردوسی"
+      ],
+      "durationMin": null,
+      "pages": 1000,
+      "inSubscription": false
+    },
+    {
+      "id": 18870,
+      "title": "سلام بر ابراهیم (۱)",
+      "format": "ebook",
+      "cover": "/covers/18870.jpg",
+      "remoteCover": "/covers/18870.jpg",
+      "finalPrice": 0,
+      "price": 21000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.68,
+      "ratingsCount": 0,
+      "authors": [
+        "گروه نویسندگان"
+      ],
+      "durationMin": null,
+      "pages": 239,
+      "inSubscription": false
+    },
+    {
+      "id": 69188,
+      "title": "دو قرن سکوت",
+      "format": "audiobook",
+      "cover": "/covers/69188.jpg",
+      "remoteCover": "/covers/69188.jpg",
+      "finalPrice": 0,
+      "price": 296000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.86,
+      "ratingsCount": 0,
+      "authors": [
+        "عبدالحسین زرین‌کوب"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 37812,
+      "title": "زمین، زمان، انسان",
+      "format": "ebook",
+      "cover": "/covers/37812.jpg",
+      "remoteCover": "/covers/37812.jpg",
+      "finalPrice": 0,
+      "price": 147000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.49,
+      "ratingsCount": 0,
+      "authors": [
+        "مزدافر مؤمنی"
+      ],
+      "durationMin": null,
+      "pages": 400,
+      "inSubscription": false
+    },
+    {
+      "id": 80587,
+      "title": "قصه‌‌ کربلا",
+      "format": "ebook",
+      "cover": "/covers/80587.jpg",
+      "remoteCover": "/covers/80587.jpg",
+      "finalPrice": 0,
+      "price": 12000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.06,
+      "ratingsCount": 0,
+      "authors": [
+        "مهدی قزلی"
+      ],
+      "durationMin": null,
+      "pages": 192,
+      "inSubscription": false
+    },
+    {
+      "id": 95170,
+      "title": "کتابخانه نیمه شب",
+      "format": "ebook",
+      "cover": "/covers/95170.jpg",
+      "remoteCover": "/covers/95170.jpg",
+      "finalPrice": 0,
+      "price": 117000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.28,
+      "ratingsCount": 0,
+      "authors": [
+        "مت هیگ"
+      ],
+      "durationMin": null,
+      "pages": 352,
+      "inSubscription": false
+    }
+  ],
+  "30388": [
+    {
+      "id": 43195,
+      "title": "یادت باشد...",
+      "format": "ebook",
+      "cover": "/covers/43195.jpg",
+      "remoteCover": "https://img.taaghche.com/frontCover/43195.jpg",
+      "finalPrice": 30000,
+      "price": 30000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.77,
+      "ratingsCount": 2100,
+      "authors": [
+        "محمدرسول ملاحسنی"
+      ],
+      "durationMin": null,
+      "pages": 328,
+      "inSubscription": false
+    },
+    {
+      "id": 18870,
+      "title": "سلام بر ابراهیم (۱)",
+      "format": "ebook",
+      "cover": "/covers/18870.jpg",
+      "remoteCover": "/covers/18870.jpg",
+      "finalPrice": 0,
+      "price": 21000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.68,
+      "ratingsCount": 0,
+      "authors": [
+        "گروه نویسندگان"
+      ],
+      "durationMin": null,
+      "pages": 239,
+      "inSubscription": false
+    },
+    {
+      "id": 71437,
+      "title": "یادت باشد",
+      "format": "audiobook",
+      "cover": "/covers/71437.jpg",
+      "remoteCover": "/covers/71437.jpg",
+      "finalPrice": 0,
+      "price": 55000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.53,
+      "ratingsCount": 0,
+      "authors": [
+        "محمدرسول ملاحسنی"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 70061,
+      "title": "نخل و نارنج",
+      "format": "ebook",
+      "cover": "/covers/70061.jpg",
+      "remoteCover": "/covers/70061.jpg",
+      "finalPrice": 0,
+      "price": 185000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.65,
+      "ratingsCount": 0,
+      "authors": [
+        "وحید یامین‌پور"
+      ],
+      "durationMin": null,
+      "pages": 248,
+      "inSubscription": false
+    },
+    {
+      "id": 95170,
+      "title": "کتابخانه نیمه شب",
+      "format": "ebook",
+      "cover": "/covers/95170.jpg",
+      "remoteCover": "/covers/95170.jpg",
+      "finalPrice": 0,
+      "price": 117000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.28,
+      "ratingsCount": 0,
+      "authors": [
+        "مت هیگ"
+      ],
+      "durationMin": null,
+      "pages": 352,
+      "inSubscription": false
+    },
+    {
+      "id": 71446,
+      "title": "پسرک، موش کور، روباه و اسب",
+      "format": "ebook",
+      "cover": "/covers/71446.jpg",
+      "remoteCover": "/covers/71446.jpg",
+      "finalPrice": 0,
+      "price": 125000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.27,
+      "ratingsCount": 0,
+      "authors": [
+        "چارلی مکسی"
+      ],
+      "durationMin": null,
+      "pages": 132,
+      "inSubscription": false
+    }
+  ],
+  "503": [
+    {
+      "id": 95170,
+      "title": "کتابخانه نیمه شب",
+      "format": "ebook",
+      "cover": "/covers/95170.jpg",
+      "remoteCover": "/covers/95170.jpg",
+      "finalPrice": 0,
+      "price": 117000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.28,
+      "ratingsCount": 0,
+      "authors": [
+        "مت هیگ"
+      ],
+      "durationMin": null,
+      "pages": 352,
+      "inSubscription": false
+    },
+    {
+      "id": 71446,
+      "title": "پسرک، موش کور، روباه و اسب",
+      "format": "ebook",
+      "cover": "/covers/71446.jpg",
+      "remoteCover": "/covers/71446.jpg",
+      "finalPrice": 0,
+      "price": 125000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.27,
+      "ratingsCount": 0,
+      "authors": [
+        "چارلی مکسی"
+      ],
+      "durationMin": null,
+      "pages": 132,
+      "inSubscription": false
+    },
+    {
+      "id": 882,
+      "title": "بوف کور",
+      "format": "ebook",
+      "cover": "/covers/882.jpg",
+      "remoteCover": "/covers/882.jpg",
+      "finalPrice": 0,
+      "price": 50000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.92,
+      "ratingsCount": 0,
+      "authors": [
+        "صادق هدایت"
+      ],
+      "durationMin": null,
+      "pages": 87,
+      "inSubscription": false
+    },
+    {
+      "id": 298,
+      "title": "شاهنامه فردوسی",
+      "format": "ebook",
+      "cover": "/covers/298.jpg",
+      "remoteCover": "/covers/298.jpg",
+      "finalPrice": 0,
+      "price": 15000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.47,
+      "ratingsCount": 0,
+      "authors": [
+        "ابوالقاسم فردوسی"
+      ],
+      "durationMin": null,
+      "pages": 1000,
+      "inSubscription": false
+    },
+    {
+      "id": 108473,
+      "title": "پاندای بزرگ و اژدهای کوچک",
+      "format": "ebook",
+      "cover": "/covers/108473.jpg",
+      "remoteCover": "/covers/108473.jpg",
+      "finalPrice": 0,
+      "price": 125000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.31,
+      "ratingsCount": 0,
+      "authors": [
+        "جیمز نوربری"
+      ],
+      "durationMin": null,
+      "pages": 160,
+      "inSubscription": false
+    },
+    {
+      "id": 196265,
+      "title": "بخش دی",
+      "format": "ebook",
+      "cover": "/covers/196265.jpg",
+      "remoteCover": "/covers/196265.jpg",
+      "finalPrice": 0,
+      "price": 180000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.32,
+      "ratingsCount": 0,
+      "authors": [
+        "فریدا مک فادن"
+      ],
+      "durationMin": null,
+      "pages": 264,
+      "inSubscription": false
+    }
+  ],
+  "17155": [
+    {
+      "id": 71446,
+      "title": "پسرک، موش کور، روباه و اسب",
+      "format": "ebook",
+      "cover": "/covers/71446.jpg",
+      "remoteCover": "/covers/71446.jpg",
+      "finalPrice": 0,
+      "price": 125000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.27,
+      "ratingsCount": 0,
+      "authors": [
+        "چارلی مکسی"
+      ],
+      "durationMin": null,
+      "pages": 132,
+      "inSubscription": false
+    },
+    {
+      "id": 298,
+      "title": "شاهنامه فردوسی",
+      "format": "ebook",
+      "cover": "/covers/298.jpg",
+      "remoteCover": "/covers/298.jpg",
+      "finalPrice": 0,
+      "price": 15000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.47,
+      "ratingsCount": 0,
+      "authors": [
+        "ابوالقاسم فردوسی"
+      ],
+      "durationMin": null,
+      "pages": 1000,
+      "inSubscription": false
+    },
+    {
+      "id": 882,
+      "title": "بوف کور",
+      "format": "ebook",
+      "cover": "/covers/882.jpg",
+      "remoteCover": "/covers/882.jpg",
+      "finalPrice": 0,
+      "price": 50000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.92,
+      "ratingsCount": 0,
+      "authors": [
+        "صادق هدایت"
+      ],
+      "durationMin": null,
+      "pages": 87,
+      "inSubscription": false
+    },
+    {
+      "id": 54965,
+      "title": "شب های روشن",
+      "format": "ebook",
+      "cover": "/covers/54965.jpg",
+      "remoteCover": "/covers/54965.jpg",
+      "finalPrice": 0,
+      "price": 80000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.93,
+      "ratingsCount": 0,
+      "authors": [
+        "فئودور داستایفسکی"
+      ],
+      "durationMin": null,
+      "pages": 111,
+      "inSubscription": false
+    },
+    {
+      "id": 38422,
+      "title": "پروین اعتصامی",
+      "format": "ebook",
+      "cover": "/covers/38422.jpg",
+      "remoteCover": "/covers/38422.jpg",
+      "finalPrice": 0,
+      "price": 0,
+      "discountPercent": 0,
+      "free": true,
+      "rating": 4.46,
+      "ratingsCount": 0,
+      "authors": [
+        "پروین اعتصامی"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 19096,
+      "title": "مسخ",
+      "format": "ebook",
+      "cover": "/covers/19096.jpg",
+      "remoteCover": "/covers/19096.jpg",
+      "finalPrice": 0,
+      "price": 5000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.6,
+      "ratingsCount": 0,
+      "authors": [
+        "فرانتس کافکا"
+      ],
+      "durationMin": null,
+      "pages": 71,
+      "inSubscription": false
+    }
+  ],
+  "147531": [
+    {
+      "id": 71446,
+      "title": "پسرک، موش کور، روباه و اسب",
+      "format": "ebook",
+      "cover": "/covers/71446.jpg",
+      "remoteCover": "/covers/71446.jpg",
+      "finalPrice": 0,
+      "price": 125000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.27,
+      "ratingsCount": 0,
+      "authors": [
+        "چارلی مکسی"
+      ],
+      "durationMin": null,
+      "pages": 132,
+      "inSubscription": false
+    },
+    {
+      "id": 298,
+      "title": "شاهنامه فردوسی",
+      "format": "ebook",
+      "cover": "/covers/298.jpg",
+      "remoteCover": "/covers/298.jpg",
+      "finalPrice": 0,
+      "price": 15000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.47,
+      "ratingsCount": 0,
+      "authors": [
+        "ابوالقاسم فردوسی"
+      ],
+      "durationMin": null,
+      "pages": 1000,
+      "inSubscription": false
+    },
+    {
+      "id": 95170,
+      "title": "کتابخانه نیمه شب",
+      "format": "ebook",
+      "cover": "/covers/95170.jpg",
+      "remoteCover": "/covers/95170.jpg",
+      "finalPrice": 0,
+      "price": 117000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.28,
+      "ratingsCount": 0,
+      "authors": [
+        "مت هیگ"
+      ],
+      "durationMin": null,
+      "pages": 352,
+      "inSubscription": false
+    },
+    {
+      "id": 882,
+      "title": "بوف کور",
+      "format": "ebook",
+      "cover": "/covers/882.jpg",
+      "remoteCover": "/covers/882.jpg",
+      "finalPrice": 0,
+      "price": 50000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.92,
+      "ratingsCount": 0,
+      "authors": [
+        "صادق هدایت"
+      ],
+      "durationMin": null,
+      "pages": 87,
+      "inSubscription": false
+    },
+    {
+      "id": 108473,
+      "title": "پاندای بزرگ و اژدهای کوچک",
+      "format": "ebook",
+      "cover": "/covers/108473.jpg",
+      "remoteCover": "/covers/108473.jpg",
+      "finalPrice": 0,
+      "price": 125000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.31,
+      "ratingsCount": 0,
+      "authors": [
+        "جیمز نوربری"
+      ],
+      "durationMin": null,
+      "pages": 160,
+      "inSubscription": false
+    },
+    {
+      "id": 196265,
+      "title": "بخش دی",
+      "format": "ebook",
+      "cover": "/covers/196265.jpg",
+      "remoteCover": "/covers/196265.jpg",
+      "finalPrice": 0,
+      "price": 180000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.32,
+      "ratingsCount": 0,
+      "authors": [
+        "فریدا مک فادن"
+      ],
+      "durationMin": null,
+      "pages": 264,
+      "inSubscription": false
+    }
+  ],
+  "340492": [
+    {
+      "id": 95170,
+      "title": "کتابخانه نیمه شب",
+      "format": "ebook",
+      "cover": "/covers/95170.jpg",
+      "remoteCover": "/covers/95170.jpg",
+      "finalPrice": 0,
+      "price": 117000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.28,
+      "ratingsCount": 0,
+      "authors": [
+        "مت هیگ"
+      ],
+      "durationMin": null,
+      "pages": 352,
+      "inSubscription": false
+    },
+    {
+      "id": 59164,
+      "title": "مغازه خودکشی",
+      "format": "audiobook",
+      "cover": "/covers/59164.jpg",
+      "remoteCover": "/covers/59164.jpg",
+      "finalPrice": 0,
+      "price": 154000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.0,
+      "ratingsCount": 0,
+      "authors": [
+        "ژان تولی"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 89835,
+      "title": "جزء از کل",
+      "format": "audiobook",
+      "cover": "/covers/89835.jpg",
+      "remoteCover": "/covers/89835.jpg",
+      "finalPrice": 0,
+      "price": 352000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.94,
+      "ratingsCount": 0,
+      "authors": [
+        "استیو تولتز"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 196265,
+      "title": "بخش دی",
+      "format": "ebook",
+      "cover": "/covers/196265.jpg",
+      "remoteCover": "/covers/196265.jpg",
+      "finalPrice": 0,
+      "price": 180000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.32,
+      "ratingsCount": 0,
+      "authors": [
+        "فریدا مک فادن"
+      ],
+      "durationMin": null,
+      "pages": 264,
+      "inSubscription": false
+    },
+    {
+      "id": 69675,
+      "title": "بامداد خمار",
+      "format": "audiobook",
+      "cover": "/covers/69675.jpg",
+      "remoteCover": "/covers/69675.jpg",
+      "finalPrice": 0,
+      "price": 387000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.22,
+      "ratingsCount": 0,
+      "authors": [
+        "فتانه حاج سید جوادی (پروین)"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 187855,
+      "title": "خاطرات یک آدم کش",
+      "format": "audiobook",
+      "cover": "/covers/187855.jpg",
+      "remoteCover": "/covers/187855.jpg",
+      "finalPrice": 0,
+      "price": 165000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.06,
+      "ratingsCount": 0,
+      "authors": [
+        "کیم یونگ ها"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    }
+  ],
+  "341452": [
+    {
+      "id": 95170,
+      "title": "کتابخانه نیمه شب",
+      "format": "ebook",
+      "cover": "/covers/95170.jpg",
+      "remoteCover": "/covers/95170.jpg",
+      "finalPrice": 0,
+      "price": 117000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.28,
+      "ratingsCount": 0,
+      "authors": [
+        "مت هیگ"
+      ],
+      "durationMin": null,
+      "pages": 352,
+      "inSubscription": false
+    },
+    {
+      "id": 59164,
+      "title": "مغازه خودکشی",
+      "format": "audiobook",
+      "cover": "/covers/59164.jpg",
+      "remoteCover": "/covers/59164.jpg",
+      "finalPrice": 0,
+      "price": 154000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.0,
+      "ratingsCount": 0,
+      "authors": [
+        "ژان تولی"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 89835,
+      "title": "جزء از کل",
+      "format": "audiobook",
+      "cover": "/covers/89835.jpg",
+      "remoteCover": "/covers/89835.jpg",
+      "finalPrice": 0,
+      "price": 352000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.94,
+      "ratingsCount": 0,
+      "authors": [
+        "استیو تولتز"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 196265,
+      "title": "بخش دی",
+      "format": "ebook",
+      "cover": "/covers/196265.jpg",
+      "remoteCover": "/covers/196265.jpg",
+      "finalPrice": 0,
+      "price": 180000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.32,
+      "ratingsCount": 0,
+      "authors": [
+        "فریدا مک فادن"
+      ],
+      "durationMin": null,
+      "pages": 264,
+      "inSubscription": false
+    },
+    {
+      "id": 69675,
+      "title": "بامداد خمار",
+      "format": "audiobook",
+      "cover": "/covers/69675.jpg",
+      "remoteCover": "/covers/69675.jpg",
+      "finalPrice": 0,
+      "price": 387000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.22,
+      "ratingsCount": 0,
+      "authors": [
+        "فتانه حاج سید جوادی (پروین)"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 187855,
+      "title": "خاطرات یک آدم کش",
+      "format": "audiobook",
+      "cover": "/covers/187855.jpg",
+      "remoteCover": "/covers/187855.jpg",
+      "finalPrice": 0,
+      "price": 165000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.06,
+      "ratingsCount": 0,
+      "authors": [
+        "کیم یونگ ها"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    }
+  ],
+  "341358": [
+    {
+      "id": 95170,
+      "title": "کتابخانه نیمه شب",
+      "format": "ebook",
+      "cover": "/covers/95170.jpg",
+      "remoteCover": "/covers/95170.jpg",
+      "finalPrice": 0,
+      "price": 117000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.28,
+      "ratingsCount": 0,
+      "authors": [
+        "مت هیگ"
+      ],
+      "durationMin": null,
+      "pages": 352,
+      "inSubscription": false
+    },
+    {
+      "id": 59164,
+      "title": "مغازه خودکشی",
+      "format": "audiobook",
+      "cover": "/covers/59164.jpg",
+      "remoteCover": "/covers/59164.jpg",
+      "finalPrice": 0,
+      "price": 154000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.0,
+      "ratingsCount": 0,
+      "authors": [
+        "ژان تولی"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 89835,
+      "title": "جزء از کل",
+      "format": "audiobook",
+      "cover": "/covers/89835.jpg",
+      "remoteCover": "/covers/89835.jpg",
+      "finalPrice": 0,
+      "price": 352000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.94,
+      "ratingsCount": 0,
+      "authors": [
+        "استیو تولتز"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 196265,
+      "title": "بخش دی",
+      "format": "ebook",
+      "cover": "/covers/196265.jpg",
+      "remoteCover": "/covers/196265.jpg",
+      "finalPrice": 0,
+      "price": 180000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.32,
+      "ratingsCount": 0,
+      "authors": [
+        "فریدا مک فادن"
+      ],
+      "durationMin": null,
+      "pages": 264,
+      "inSubscription": false
+    },
+    {
+      "id": 69675,
+      "title": "بامداد خمار",
+      "format": "audiobook",
+      "cover": "/covers/69675.jpg",
+      "remoteCover": "/covers/69675.jpg",
+      "finalPrice": 0,
+      "price": 387000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.22,
+      "ratingsCount": 0,
+      "authors": [
+        "فتانه حاج سید جوادی (پروین)"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 187855,
+      "title": "خاطرات یک آدم کش",
+      "format": "audiobook",
+      "cover": "/covers/187855.jpg",
+      "remoteCover": "/covers/187855.jpg",
+      "finalPrice": 0,
+      "price": 165000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.06,
+      "ratingsCount": 0,
+      "authors": [
+        "کیم یونگ ها"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    }
+  ],
+  "336718": [
+    {
+      "id": 72107,
+      "title": "شازده کوچولو",
+      "format": "audiobook",
+      "cover": "/covers/72107.jpg",
+      "remoteCover": "/covers/72107.jpg",
+      "finalPrice": 0,
+      "price": 15000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.37,
+      "ratingsCount": 0,
+      "authors": [
+        "آنتوان دوسنت اگزوپری"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 71446,
+      "title": "پسرک، موش کور، روباه و اسب",
+      "format": "ebook",
+      "cover": "/covers/71446.jpg",
+      "remoteCover": "/covers/71446.jpg",
+      "finalPrice": 0,
+      "price": 125000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.27,
+      "ratingsCount": 0,
+      "authors": [
+        "چارلی مکسی"
+      ],
+      "durationMin": null,
+      "pages": 132,
+      "inSubscription": false
+    },
+    {
+      "id": 71238,
+      "title": "هری پاتر و سنگ جادو",
+      "format": "audiobook",
+      "cover": "/covers/71238.jpg",
+      "remoteCover": "/covers/71238.jpg",
+      "finalPrice": 0,
+      "price": 296000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.39,
+      "ratingsCount": 0,
+      "authors": [
+        "جی.کی. رولینگ"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 6426,
+      "title": "شازده کوچولو",
+      "format": "ebook",
+      "cover": "/covers/6426.jpg",
+      "remoteCover": "/covers/6426.jpg",
+      "finalPrice": 0,
+      "price": 58500,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.41,
+      "ratingsCount": 0,
+      "authors": [
+        "آنتوان دوسنت اگزوپری"
+      ],
+      "durationMin": null,
+      "pages": 192,
+      "inSubscription": false
+    },
+    {
+      "id": 204141,
+      "title": "بازی های میراث",
+      "format": "ebook",
+      "cover": "/covers/204141.jpg",
+      "remoteCover": "/covers/204141.jpg",
+      "finalPrice": 0,
+      "price": 180000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.88,
+      "ratingsCount": 0,
+      "authors": [
+        "جنیفر لین بارنز"
+      ],
+      "durationMin": null,
+      "pages": 360,
+      "inSubscription": false
+    },
+    {
+      "id": 150375,
+      "title": "هری پاتر و سنگ کیمیا",
+      "format": "ebook",
+      "cover": "/covers/150375.jpg",
+      "remoteCover": "/covers/150375.jpg",
+      "finalPrice": 0,
+      "price": 120000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.32,
+      "ratingsCount": 0,
+      "authors": [
+        "جی. کی. رولینگ"
+      ],
+      "durationMin": null,
+      "pages": 280,
+      "inSubscription": false
+    }
+  ],
+  "141438": [
+    {
+      "id": 69675,
+      "title": "بامداد خمار",
+      "format": "audiobook",
+      "cover": "/covers/69675.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/69675.jpg",
+      "finalPrice": 387000,
+      "price": 387000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.22,
+      "ratingsCount": 2539,
+      "authors": [
+        "فتانه حاج سید جوادی (پروین)"
+      ],
+      "durationMin": 1095,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 95170,
+      "title": "کتابخانه نیمه شب",
+      "format": "ebook",
+      "cover": "/covers/95170.jpg",
+      "remoteCover": "/covers/95170.jpg",
+      "finalPrice": 0,
+      "price": 117000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.28,
+      "ratingsCount": 0,
+      "authors": [
+        "مت هیگ"
+      ],
+      "durationMin": null,
+      "pages": 352,
+      "inSubscription": false
+    },
+    {
+      "id": 59164,
+      "title": "مغازه خودکشی",
+      "format": "audiobook",
+      "cover": "/covers/59164.jpg",
+      "remoteCover": "/covers/59164.jpg",
+      "finalPrice": 0,
+      "price": 154000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.0,
+      "ratingsCount": 0,
+      "authors": [
+        "ژان تولی"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 89835,
+      "title": "جزء از کل",
+      "format": "audiobook",
+      "cover": "/covers/89835.jpg",
+      "remoteCover": "/covers/89835.jpg",
+      "finalPrice": 0,
+      "price": 352000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.94,
+      "ratingsCount": 0,
+      "authors": [
+        "استیو تولتز"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 196265,
+      "title": "بخش دی",
+      "format": "ebook",
+      "cover": "/covers/196265.jpg",
+      "remoteCover": "/covers/196265.jpg",
+      "finalPrice": 0,
+      "price": 180000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.32,
+      "ratingsCount": 0,
+      "authors": [
+        "فریدا مک فادن"
+      ],
+      "durationMin": null,
+      "pages": 264,
+      "inSubscription": false
+    },
+    {
+      "id": 187855,
+      "title": "خاطرات یک آدم کش",
+      "format": "audiobook",
+      "cover": "/covers/187855.jpg",
+      "remoteCover": "/covers/187855.jpg",
+      "finalPrice": 0,
+      "price": 165000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.06,
+      "ratingsCount": 0,
+      "authors": [
+        "کیم یونگ ها"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    }
+  ],
+  "18870": [
+    {
+      "id": 298,
+      "title": "شاهنامه فردوسی",
+      "format": "ebook",
+      "cover": "/covers/298.jpg",
+      "remoteCover": "/covers/298.jpg",
+      "finalPrice": 0,
+      "price": 15000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.47,
+      "ratingsCount": 0,
+      "authors": [
+        "ابوالقاسم فردوسی"
+      ],
+      "durationMin": null,
+      "pages": 1000,
+      "inSubscription": false
+    },
+    {
+      "id": 30388,
+      "title": "خاطرات سفیر",
+      "format": "ebook",
+      "cover": "/covers/30388.jpg",
+      "remoteCover": "/covers/30388.jpg",
+      "finalPrice": 0,
+      "price": 313000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.5,
+      "ratingsCount": 0,
+      "authors": [
+        "نیلوفر شادمهری"
+      ],
+      "durationMin": null,
+      "pages": 224,
+      "inSubscription": false
+    },
+    {
+      "id": 43195,
+      "title": "یادت باشد...",
+      "format": "ebook",
+      "cover": "/covers/43195.jpg",
+      "remoteCover": "/covers/43195.jpg",
+      "finalPrice": 0,
+      "price": 30000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.77,
+      "ratingsCount": 0,
+      "authors": [
+        "محمدرسول ملاحسنی"
+      ],
+      "durationMin": null,
+      "pages": 328,
+      "inSubscription": false
+    },
+    {
+      "id": 71437,
+      "title": "یادت باشد",
+      "format": "audiobook",
+      "cover": "/covers/71437.jpg",
+      "remoteCover": "/covers/71437.jpg",
+      "finalPrice": 0,
+      "price": 55000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.53,
+      "ratingsCount": 0,
+      "authors": [
+        "محمدرسول ملاحسنی"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 118620,
+      "title": "خون دلی که لعل شد",
+      "format": "ebook",
+      "cover": "/covers/118620.jpg",
+      "remoteCover": "/covers/118620.jpg",
+      "finalPrice": 0,
+      "price": 228000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.36,
+      "ratingsCount": 0,
+      "authors": [
+        "سید‌علی خامنه‌ای"
+      ],
+      "durationMin": null,
+      "pages": 432,
+      "inSubscription": false
+    },
+    {
+      "id": 70061,
+      "title": "نخل و نارنج",
+      "format": "ebook",
+      "cover": "/covers/70061.jpg",
+      "remoteCover": "/covers/70061.jpg",
+      "finalPrice": 0,
+      "price": 185000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.65,
+      "ratingsCount": 0,
+      "authors": [
+        "وحید یامین‌پور"
+      ],
+      "durationMin": null,
+      "pages": 248,
+      "inSubscription": false
+    }
+  ],
+  "80587": [
+    {
+      "id": 18870,
+      "title": "سلام بر ابراهیم (۱)",
+      "format": "ebook",
+      "cover": "/covers/18870.jpg",
+      "remoteCover": "https://img.taaghche.com/frontCover/18870.jpg",
+      "finalPrice": 21000,
+      "price": 21000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.68,
+      "ratingsCount": 3261,
+      "authors": [
+        "گروه نویسندگان"
+      ],
+      "durationMin": null,
+      "pages": 239,
+      "inSubscription": true
+    },
+    {
+      "id": 298,
+      "title": "شاهنامه فردوسی",
+      "format": "ebook",
+      "cover": "/covers/298.jpg",
+      "remoteCover": "/covers/298.jpg",
+      "finalPrice": 0,
+      "price": 15000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.47,
+      "ratingsCount": 0,
+      "authors": [
+        "ابوالقاسم فردوسی"
+      ],
+      "durationMin": null,
+      "pages": 1000,
+      "inSubscription": false
+    },
+    {
+      "id": 118620,
+      "title": "خون دلی که لعل شد",
+      "format": "ebook",
+      "cover": "/covers/118620.jpg",
+      "remoteCover": "/covers/118620.jpg",
+      "finalPrice": 0,
+      "price": 228000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.36,
+      "ratingsCount": 0,
+      "authors": [
+        "سید‌علی خامنه‌ای"
+      ],
+      "durationMin": null,
+      "pages": 432,
+      "inSubscription": false
+    },
+    {
+      "id": 69188,
+      "title": "دو قرن سکوت",
+      "format": "audiobook",
+      "cover": "/covers/69188.jpg",
+      "remoteCover": "/covers/69188.jpg",
+      "finalPrice": 0,
+      "price": 296000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.86,
+      "ratingsCount": 0,
+      "authors": [
+        "عبدالحسین زرین‌کوب"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 95170,
+      "title": "کتابخانه نیمه شب",
+      "format": "ebook",
+      "cover": "/covers/95170.jpg",
+      "remoteCover": "/covers/95170.jpg",
+      "finalPrice": 0,
+      "price": 117000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.28,
+      "ratingsCount": 0,
+      "authors": [
+        "مت هیگ"
+      ],
+      "durationMin": null,
+      "pages": 352,
+      "inSubscription": false
+    },
+    {
+      "id": 71446,
+      "title": "پسرک، موش کور، روباه و اسب",
+      "format": "ebook",
+      "cover": "/covers/71446.jpg",
+      "remoteCover": "/covers/71446.jpg",
+      "finalPrice": 0,
+      "price": 125000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.27,
+      "ratingsCount": 0,
+      "authors": [
+        "چارلی مکسی"
+      ],
+      "durationMin": null,
+      "pages": 132,
+      "inSubscription": false
+    }
+  ],
+  "59164": [
+    {
+      "id": 33045,
+      "title": "سمفونی مردگان",
+      "format": "audiobook",
+      "cover": "/covers/33045.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/33045.jpg",
+      "finalPrice": 320000,
+      "price": 320000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.99,
+      "ratingsCount": 2121,
+      "authors": [
+        "عباس معروفی"
+      ],
+      "durationMin": 832,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 139311,
+      "title": "کتابخانه نیمه شب",
+      "format": "audiobook",
+      "cover": "/covers/139311.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/139311.jpg",
+      "finalPrice": 290000,
+      "price": 290000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.19,
+      "ratingsCount": 2202,
+      "authors": [
+        "مت هیگ"
+      ],
+      "durationMin": 677,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 89835,
+      "title": "جزء از کل",
+      "format": "audiobook",
+      "cover": "/covers/89835.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/89835.jpg",
+      "finalPrice": 352000,
+      "price": 352000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.94,
+      "ratingsCount": 3364,
+      "authors": [
+        "استیو تولتز"
+      ],
+      "durationMin": 1362,
+      "pages": null,
+      "inSubscription": true
+    },
+    {
+      "id": 187855,
+      "title": "خاطرات یک آدم کش",
+      "format": "audiobook",
+      "cover": "/covers/187855.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/187855.jpg",
+      "finalPrice": 165000,
+      "price": 165000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.06,
+      "ratingsCount": 2602,
+      "authors": [
+        "کیم یونگ ها"
+      ],
+      "durationMin": 200,
+      "pages": null,
+      "inSubscription": true
+    },
+    {
+      "id": 95170,
+      "title": "کتابخانه نیمه شب",
+      "format": "ebook",
+      "cover": "/covers/95170.jpg",
+      "remoteCover": "/covers/95170.jpg",
+      "finalPrice": 0,
+      "price": 117000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.28,
+      "ratingsCount": 0,
+      "authors": [
+        "مت هیگ"
+      ],
+      "durationMin": null,
+      "pages": 352,
+      "inSubscription": false
+    },
+    {
+      "id": 196265,
+      "title": "بخش دی",
+      "format": "ebook",
+      "cover": "/covers/196265.jpg",
+      "remoteCover": "/covers/196265.jpg",
+      "finalPrice": 0,
+      "price": 180000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.32,
+      "ratingsCount": 0,
+      "authors": [
+        "فریدا مک فادن"
+      ],
+      "durationMin": null,
+      "pages": 264,
+      "inSubscription": false
+    }
+  ],
+  "72107": [
+    {
+      "id": 123153,
+      "title": "قورباغه ات را قورت بده!",
+      "format": "audiobook",
+      "cover": "/covers/123153.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/123153.jpg",
+      "finalPrice": 23400,
+      "price": 39000,
+      "discountPercent": 40,
+      "free": false,
+      "rating": 4.14,
+      "ratingsCount": 2525,
+      "authors": [
+        "برایان تریسی"
+      ],
+      "durationMin": 110,
+      "pages": null,
+      "inSubscription": true
+    },
+    {
+      "id": 89835,
+      "title": "جزء از کل",
+      "format": "audiobook",
+      "cover": "/covers/89835.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/89835.jpg",
+      "finalPrice": 352000,
+      "price": 352000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.94,
+      "ratingsCount": 3364,
+      "authors": [
+        "استیو تولتز"
+      ],
+      "durationMin": 1362,
+      "pages": null,
+      "inSubscription": true
+    },
+    {
+      "id": 90336,
+      "title": "بوف کور",
+      "format": "audiobook",
+      "cover": "/covers/90336.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/90336.jpg",
+      "finalPrice": 98000,
+      "price": 98000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.66,
+      "ratingsCount": 1490,
+      "authors": [
+        "صادق هدایت"
+      ],
+      "durationMin": 181,
+      "pages": null,
+      "inSubscription": true
+    },
+    {
+      "id": 71446,
+      "title": "پسرک، موش کور، روباه و اسب",
+      "format": "ebook",
+      "cover": "/covers/71446.jpg",
+      "remoteCover": "/covers/71446.jpg",
+      "finalPrice": 0,
+      "price": 125000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.27,
+      "ratingsCount": 0,
+      "authors": [
+        "چارلی مکسی"
+      ],
+      "durationMin": null,
+      "pages": 132,
+      "inSubscription": false
+    },
+    {
+      "id": 71238,
+      "title": "هری پاتر و سنگ جادو",
+      "format": "audiobook",
+      "cover": "/covers/71238.jpg",
+      "remoteCover": "/covers/71238.jpg",
+      "finalPrice": 0,
+      "price": 296000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.39,
+      "ratingsCount": 0,
+      "authors": [
+        "جی.کی. رولینگ"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 6426,
+      "title": "شازده کوچولو",
+      "format": "ebook",
+      "cover": "/covers/6426.jpg",
+      "remoteCover": "/covers/6426.jpg",
+      "finalPrice": 0,
+      "price": 58500,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.41,
+      "ratingsCount": 0,
+      "authors": [
+        "آنتوان دوسنت اگزوپری"
+      ],
+      "durationMin": null,
+      "pages": 192,
+      "inSubscription": false
+    }
+  ],
+  "68150": [
+    {
+      "id": 35369,
+      "title": "چهار میثاق",
+      "format": "audiobook",
+      "cover": "/covers/35369.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/35369.jpg",
+      "finalPrice": 68000,
+      "price": 68000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.22,
+      "ratingsCount": 1625,
+      "authors": [
+        "دون میگوئل روئیز"
+      ],
+      "durationMin": 262,
+      "pages": null,
+      "inSubscription": true
+    },
+    {
+      "id": 231572,
+      "title": "قدرت سکوت",
+      "format": "audiobook",
+      "cover": "/covers/231572.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/231572.jpg",
+      "finalPrice": 45000,
+      "price": 90000,
+      "discountPercent": 50,
+      "free": false,
+      "rating": 3.97,
+      "ratingsCount": 2070,
+      "authors": [
+        "تیک نات هان"
+      ],
+      "durationMin": 262,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 26357,
+      "title": "اثر مرکب",
+      "format": "audiobook",
+      "cover": "/covers/26357.jpg",
+      "remoteCover": "/covers/26357.jpg",
+      "finalPrice": 0,
+      "price": 19800,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.13,
+      "ratingsCount": 0,
+      "authors": [
+        "دارن هاردی"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 165476,
+      "title": "اول عاشق خودت باش",
+      "format": "audiobook",
+      "cover": "/covers/165476.jpg",
+      "remoteCover": "/covers/165476.jpg",
+      "finalPrice": 0,
+      "price": 40000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.12,
+      "ratingsCount": 0,
+      "authors": [
+        "مارک رکلاو"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 54131,
+      "title": "عادت های اتمی",
+      "format": "ebook",
+      "cover": "/covers/54131.jpg",
+      "remoteCover": "/covers/54131.jpg",
+      "finalPrice": 0,
+      "price": 99000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.09,
+      "ratingsCount": 0,
+      "authors": [
+        "جیمز کلیر"
+      ],
+      "durationMin": null,
+      "pages": 275,
+      "inSubscription": false
+    },
+    {
+      "id": 250852,
+      "title": "اجازه نده هر چیزی روی تو تاثیر بگذارد",
+      "format": "audiobook",
+      "cover": "/covers/250852.jpg",
+      "remoteCover": "/covers/250852.jpg",
+      "finalPrice": 0,
+      "price": 115000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.34,
+      "ratingsCount": 0,
+      "authors": [
+        "دنیل چیدیاک"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    }
+  ],
+  "89835": [
+    {
+      "id": 90336,
+      "title": "بوف کور",
+      "format": "audiobook",
+      "cover": "/covers/90336.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/90336.jpg",
+      "finalPrice": 98000,
+      "price": 98000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.66,
+      "ratingsCount": 1490,
+      "authors": [
+        "صادق هدایت"
+      ],
+      "durationMin": 181,
+      "pages": null,
+      "inSubscription": true
+    },
+    {
+      "id": 95170,
+      "title": "کتابخانه نیمه شب",
+      "format": "ebook",
+      "cover": "/covers/95170.jpg",
+      "remoteCover": "/covers/95170.jpg",
+      "finalPrice": 0,
+      "price": 117000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.28,
+      "ratingsCount": 0,
+      "authors": [
+        "مت هیگ"
+      ],
+      "durationMin": null,
+      "pages": 352,
+      "inSubscription": false
+    },
+    {
+      "id": 59164,
+      "title": "مغازه خودکشی",
+      "format": "audiobook",
+      "cover": "/covers/59164.jpg",
+      "remoteCover": "/covers/59164.jpg",
+      "finalPrice": 0,
+      "price": 154000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.0,
+      "ratingsCount": 0,
+      "authors": [
+        "ژان تولی"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 196265,
+      "title": "بخش دی",
+      "format": "ebook",
+      "cover": "/covers/196265.jpg",
+      "remoteCover": "/covers/196265.jpg",
+      "finalPrice": 0,
+      "price": 180000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.32,
+      "ratingsCount": 0,
+      "authors": [
+        "فریدا مک فادن"
+      ],
+      "durationMin": null,
+      "pages": 264,
+      "inSubscription": false
+    },
+    {
+      "id": 69675,
+      "title": "بامداد خمار",
+      "format": "audiobook",
+      "cover": "/covers/69675.jpg",
+      "remoteCover": "/covers/69675.jpg",
+      "finalPrice": 0,
+      "price": 387000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.22,
+      "ratingsCount": 0,
+      "authors": [
+        "فتانه حاج سید جوادی (پروین)"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 187855,
+      "title": "خاطرات یک آدم کش",
+      "format": "audiobook",
+      "cover": "/covers/187855.jpg",
+      "remoteCover": "/covers/187855.jpg",
+      "finalPrice": 0,
+      "price": 165000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.06,
+      "ratingsCount": 0,
+      "authors": [
+        "کیم یونگ ها"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    }
+  ],
+  "26357": [
+    {
+      "id": 68150,
+      "title": "معجزه (شکرگزاری)",
+      "format": "audiobook",
+      "cover": "/covers/68150.jpg",
+      "remoteCover": "/covers/68150.jpg",
+      "finalPrice": 0,
+      "price": 199000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.32,
+      "ratingsCount": 0,
+      "authors": [
+        "راندا برن"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 165476,
+      "title": "اول عاشق خودت باش",
+      "format": "audiobook",
+      "cover": "/covers/165476.jpg",
+      "remoteCover": "/covers/165476.jpg",
+      "finalPrice": 0,
+      "price": 40000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.12,
+      "ratingsCount": 0,
+      "authors": [
+        "مارک رکلاو"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 54131,
+      "title": "عادت های اتمی",
+      "format": "ebook",
+      "cover": "/covers/54131.jpg",
+      "remoteCover": "/covers/54131.jpg",
+      "finalPrice": 0,
+      "price": 99000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.09,
+      "ratingsCount": 0,
+      "authors": [
+        "جیمز کلیر"
+      ],
+      "durationMin": null,
+      "pages": 275,
+      "inSubscription": false
+    },
+    {
+      "id": 231572,
+      "title": "قدرت سکوت",
+      "format": "audiobook",
+      "cover": "/covers/231572.jpg",
+      "remoteCover": "/covers/231572.jpg",
+      "finalPrice": 0,
+      "price": 90000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.97,
+      "ratingsCount": 0,
+      "authors": [
+        "تیک نات هان"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 250852,
+      "title": "اجازه نده هر چیزی روی تو تاثیر بگذارد",
+      "format": "audiobook",
+      "cover": "/covers/250852.jpg",
+      "remoteCover": "/covers/250852.jpg",
+      "finalPrice": 0,
+      "price": 115000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.34,
+      "ratingsCount": 0,
+      "authors": [
+        "دنیل چیدیاک"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 4206,
+      "title": "انسان در جستجوی معنا",
+      "format": "ebook",
+      "cover": "/covers/4206.jpg",
+      "remoteCover": "/covers/4206.jpg",
+      "finalPrice": 0,
+      "price": 78000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.82,
+      "ratingsCount": 0,
+      "authors": [
+        "ویکتور فرانکل"
+      ],
+      "durationMin": null,
+      "pages": 168,
+      "inSubscription": false
+    }
+  ],
+  "165476": [
+    {
+      "id": 231572,
+      "title": "قدرت سکوت",
+      "format": "audiobook",
+      "cover": "/covers/231572.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/231572.jpg",
+      "finalPrice": 45000,
+      "price": 90000,
+      "discountPercent": 50,
+      "free": false,
+      "rating": 3.97,
+      "ratingsCount": 2070,
+      "authors": [
+        "تیک نات هان"
+      ],
+      "durationMin": 262,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 54861,
+      "title": "عادت‌ های اتمی",
+      "format": "audiobook",
+      "cover": "/covers/54861.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/54861.jpg",
+      "finalPrice": 175000,
+      "price": 175000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.84,
+      "ratingsCount": 1063,
+      "authors": [
+        "جیمز کلیر"
+      ],
+      "durationMin": 630,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 68150,
+      "title": "معجزه (شکرگزاری)",
+      "format": "audiobook",
+      "cover": "/covers/68150.jpg",
+      "remoteCover": "/covers/68150.jpg",
+      "finalPrice": 0,
+      "price": 199000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.32,
+      "ratingsCount": 0,
+      "authors": [
+        "راندا برن"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 26357,
+      "title": "اثر مرکب",
+      "format": "audiobook",
+      "cover": "/covers/26357.jpg",
+      "remoteCover": "/covers/26357.jpg",
+      "finalPrice": 0,
+      "price": 19800,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.13,
+      "ratingsCount": 0,
+      "authors": [
+        "دارن هاردی"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 54131,
+      "title": "عادت های اتمی",
+      "format": "ebook",
+      "cover": "/covers/54131.jpg",
+      "remoteCover": "/covers/54131.jpg",
+      "finalPrice": 0,
+      "price": 99000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.09,
+      "ratingsCount": 0,
+      "authors": [
+        "جیمز کلیر"
+      ],
+      "durationMin": null,
+      "pages": 275,
+      "inSubscription": false
+    },
+    {
+      "id": 250852,
+      "title": "اجازه نده هر چیزی روی تو تاثیر بگذارد",
+      "format": "audiobook",
+      "cover": "/covers/250852.jpg",
+      "remoteCover": "/covers/250852.jpg",
+      "finalPrice": 0,
+      "price": 115000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.34,
+      "ratingsCount": 0,
+      "authors": [
+        "دنیل چیدیاک"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    }
+  ],
+  "187855": [
+    {
+      "id": 95170,
+      "title": "کتابخانه نیمه شب",
+      "format": "ebook",
+      "cover": "/covers/95170.jpg",
+      "remoteCover": "/covers/95170.jpg",
+      "finalPrice": 0,
+      "price": 117000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.28,
+      "ratingsCount": 0,
+      "authors": [
+        "مت هیگ"
+      ],
+      "durationMin": null,
+      "pages": 352,
+      "inSubscription": false
+    },
+    {
+      "id": 59164,
+      "title": "مغازه خودکشی",
+      "format": "audiobook",
+      "cover": "/covers/59164.jpg",
+      "remoteCover": "/covers/59164.jpg",
+      "finalPrice": 0,
+      "price": 154000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.0,
+      "ratingsCount": 0,
+      "authors": [
+        "ژان تولی"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 89835,
+      "title": "جزء از کل",
+      "format": "audiobook",
+      "cover": "/covers/89835.jpg",
+      "remoteCover": "/covers/89835.jpg",
+      "finalPrice": 0,
+      "price": 352000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.94,
+      "ratingsCount": 0,
+      "authors": [
+        "استیو تولتز"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 196265,
+      "title": "بخش دی",
+      "format": "ebook",
+      "cover": "/covers/196265.jpg",
+      "remoteCover": "/covers/196265.jpg",
+      "finalPrice": 0,
+      "price": 180000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.32,
+      "ratingsCount": 0,
+      "authors": [
+        "فریدا مک فادن"
+      ],
+      "durationMin": null,
+      "pages": 264,
+      "inSubscription": false
+    },
+    {
+      "id": 69675,
+      "title": "بامداد خمار",
+      "format": "audiobook",
+      "cover": "/covers/69675.jpg",
+      "remoteCover": "/covers/69675.jpg",
+      "finalPrice": 0,
+      "price": 387000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.22,
+      "ratingsCount": 0,
+      "authors": [
+        "فتانه حاج سید جوادی (پروین)"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 139311,
+      "title": "کتابخانه نیمه شب",
+      "format": "audiobook",
+      "cover": "/covers/139311.jpg",
+      "remoteCover": "/covers/139311.jpg",
+      "finalPrice": 0,
+      "price": 290000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.19,
+      "ratingsCount": 0,
+      "authors": [
+        "مت هیگ"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    }
+  ],
+  "69675": [
+    {
+      "id": 139311,
+      "title": "کتابخانه نیمه شب",
+      "format": "audiobook",
+      "cover": "/covers/139311.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/139311.jpg",
+      "finalPrice": 290000,
+      "price": 290000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.19,
+      "ratingsCount": 2202,
+      "authors": [
+        "مت هیگ"
+      ],
+      "durationMin": 677,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 33045,
+      "title": "سمفونی مردگان",
+      "format": "audiobook",
+      "cover": "/covers/33045.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/33045.jpg",
+      "finalPrice": 320000,
+      "price": 320000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.99,
+      "ratingsCount": 2121,
+      "authors": [
+        "عباس معروفی"
+      ],
+      "durationMin": 832,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 95170,
+      "title": "کتابخانه نیمه شب",
+      "format": "ebook",
+      "cover": "/covers/95170.jpg",
+      "remoteCover": "/covers/95170.jpg",
+      "finalPrice": 0,
+      "price": 117000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.28,
+      "ratingsCount": 0,
+      "authors": [
+        "مت هیگ"
+      ],
+      "durationMin": null,
+      "pages": 352,
+      "inSubscription": false
+    },
+    {
+      "id": 59164,
+      "title": "مغازه خودکشی",
+      "format": "audiobook",
+      "cover": "/covers/59164.jpg",
+      "remoteCover": "/covers/59164.jpg",
+      "finalPrice": 0,
+      "price": 154000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.0,
+      "ratingsCount": 0,
+      "authors": [
+        "ژان تولی"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 89835,
+      "title": "جزء از کل",
+      "format": "audiobook",
+      "cover": "/covers/89835.jpg",
+      "remoteCover": "/covers/89835.jpg",
+      "finalPrice": 0,
+      "price": 352000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.94,
+      "ratingsCount": 0,
+      "authors": [
+        "استیو تولتز"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 196265,
+      "title": "بخش دی",
+      "format": "ebook",
+      "cover": "/covers/196265.jpg",
+      "remoteCover": "/covers/196265.jpg",
+      "finalPrice": 0,
+      "price": 180000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.32,
+      "ratingsCount": 0,
+      "authors": [
+        "فریدا مک فادن"
+      ],
+      "durationMin": null,
+      "pages": 264,
+      "inSubscription": false
+    }
+  ],
+  "123153": [
+    {
+      "id": 72107,
+      "title": "شازده کوچولو",
+      "format": "audiobook",
+      "cover": "/covers/72107.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/72107.jpg",
+      "finalPrice": 15000,
+      "price": 15000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.37,
+      "ratingsCount": 6046,
+      "authors": [
+        "آنتوان دوسنت اگزوپری"
+      ],
+      "durationMin": 177,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 95170,
+      "title": "کتابخانه نیمه شب",
+      "format": "ebook",
+      "cover": "/covers/95170.jpg",
+      "remoteCover": "/covers/95170.jpg",
+      "finalPrice": 0,
+      "price": 117000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.28,
+      "ratingsCount": 0,
+      "authors": [
+        "مت هیگ"
+      ],
+      "durationMin": null,
+      "pages": 352,
+      "inSubscription": false
+    },
+    {
+      "id": 71446,
+      "title": "پسرک، موش کور، روباه و اسب",
+      "format": "ebook",
+      "cover": "/covers/71446.jpg",
+      "remoteCover": "/covers/71446.jpg",
+      "finalPrice": 0,
+      "price": 125000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.27,
+      "ratingsCount": 0,
+      "authors": [
+        "چارلی مکسی"
+      ],
+      "durationMin": null,
+      "pages": 132,
+      "inSubscription": false
+    },
+    {
+      "id": 882,
+      "title": "بوف کور",
+      "format": "ebook",
+      "cover": "/covers/882.jpg",
+      "remoteCover": "/covers/882.jpg",
+      "finalPrice": 0,
+      "price": 50000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.92,
+      "ratingsCount": 0,
+      "authors": [
+        "صادق هدایت"
+      ],
+      "durationMin": null,
+      "pages": 87,
+      "inSubscription": false
+    },
+    {
+      "id": 298,
+      "title": "شاهنامه فردوسی",
+      "format": "ebook",
+      "cover": "/covers/298.jpg",
+      "remoteCover": "/covers/298.jpg",
+      "finalPrice": 0,
+      "price": 15000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.47,
+      "ratingsCount": 0,
+      "authors": [
+        "ابوالقاسم فردوسی"
+      ],
+      "durationMin": null,
+      "pages": 1000,
+      "inSubscription": false
+    },
+    {
+      "id": 108473,
+      "title": "پاندای بزرگ و اژدهای کوچک",
+      "format": "ebook",
+      "cover": "/covers/108473.jpg",
+      "remoteCover": "/covers/108473.jpg",
+      "finalPrice": 0,
+      "price": 125000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.31,
+      "ratingsCount": 0,
+      "authors": [
+        "جیمز نوربری"
+      ],
+      "durationMin": null,
+      "pages": 160,
+      "inSubscription": false
+    }
+  ],
+  "139311": [
+    {
+      "id": 33045,
+      "title": "سمفونی مردگان",
+      "format": "audiobook",
+      "cover": "/covers/33045.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/33045.jpg",
+      "finalPrice": 320000,
+      "price": 320000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.99,
+      "ratingsCount": 2121,
+      "authors": [
+        "عباس معروفی"
+      ],
+      "durationMin": 832,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 59164,
+      "title": "مغازه خودکشی",
+      "format": "audiobook",
+      "cover": "/covers/59164.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/59164.jpg",
+      "finalPrice": 154000,
+      "price": 154000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.0,
+      "ratingsCount": 7142,
+      "authors": [
+        "ژان تولی"
+      ],
+      "durationMin": 187,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 69675,
+      "title": "بامداد خمار",
+      "format": "audiobook",
+      "cover": "/covers/69675.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/69675.jpg",
+      "finalPrice": 387000,
+      "price": 387000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.22,
+      "ratingsCount": 2539,
+      "authors": [
+        "فتانه حاج سید جوادی (پروین)"
+      ],
+      "durationMin": 1095,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 54861,
+      "title": "عادت‌ های اتمی",
+      "format": "audiobook",
+      "cover": "/covers/54861.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/54861.jpg",
+      "finalPrice": 175000,
+      "price": 175000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.84,
+      "ratingsCount": 1063,
+      "authors": [
+        "جیمز کلیر"
+      ],
+      "durationMin": 630,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 68779,
+      "title": "دنیای سوفی",
+      "format": "audiobook",
+      "cover": "/covers/68779.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/68779.jpg",
+      "finalPrice": 406000,
+      "price": 406000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.93,
+      "ratingsCount": 803,
+      "authors": [
+        "یوستین گوردر"
+      ],
+      "durationMin": 1204,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 95170,
+      "title": "کتابخانه نیمه شب",
+      "format": "ebook",
+      "cover": "/covers/95170.jpg",
+      "remoteCover": "/covers/95170.jpg",
+      "finalPrice": 0,
+      "price": 117000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.28,
+      "ratingsCount": 0,
+      "authors": [
+        "مت هیگ"
+      ],
+      "durationMin": null,
+      "pages": 352,
+      "inSubscription": false
+    }
+  ],
+  "44765": [
+    {
+      "id": 35369,
+      "title": "چهار میثاق",
+      "format": "audiobook",
+      "cover": "/covers/35369.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/35369.jpg",
+      "finalPrice": 68000,
+      "price": 68000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.22,
+      "ratingsCount": 1625,
+      "authors": [
+        "دون میگوئل روئیز"
+      ],
+      "durationMin": 262,
+      "pages": null,
+      "inSubscription": true
+    },
+    {
+      "id": 68779,
+      "title": "دنیای سوفی",
+      "format": "audiobook",
+      "cover": "/covers/68779.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/68779.jpg",
+      "finalPrice": 406000,
+      "price": 406000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.93,
+      "ratingsCount": 803,
+      "authors": [
+        "یوستین گوردر"
+      ],
+      "durationMin": 1204,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 39659,
+      "title": "کیمیاگر",
+      "format": "audiobook",
+      "cover": "/covers/39659.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/39659.jpg",
+      "finalPrice": 229000,
+      "price": 229000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.97,
+      "ratingsCount": 2006,
+      "authors": [
+        "پائولو کوئیلو"
+      ],
+      "durationMin": 306,
+      "pages": null,
+      "inSubscription": true
+    },
+    {
+      "id": 26357,
+      "title": "اثر مرکب",
+      "format": "audiobook",
+      "cover": "/covers/26357.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/26357.jpg",
+      "finalPrice": 19800,
+      "price": 19800,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.13,
+      "ratingsCount": 3090,
+      "authors": [
+        "دارن هاردی"
+      ],
+      "durationMin": 77,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 95170,
+      "title": "کتابخانه نیمه شب",
+      "format": "ebook",
+      "cover": "/covers/95170.jpg",
+      "remoteCover": "/covers/95170.jpg",
+      "finalPrice": 0,
+      "price": 117000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.28,
+      "ratingsCount": 0,
+      "authors": [
+        "مت هیگ"
+      ],
+      "durationMin": null,
+      "pages": 352,
+      "inSubscription": false
+    },
+    {
+      "id": 59164,
+      "title": "مغازه خودکشی",
+      "format": "audiobook",
+      "cover": "/covers/59164.jpg",
+      "remoteCover": "/covers/59164.jpg",
+      "finalPrice": 0,
+      "price": 154000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.0,
+      "ratingsCount": 0,
+      "authors": [
+        "ژان تولی"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    }
+  ],
+  "33045": [
+    {
+      "id": 59164,
+      "title": "مغازه خودکشی",
+      "format": "audiobook",
+      "cover": "/covers/59164.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/59164.jpg",
+      "finalPrice": 154000,
+      "price": 154000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.0,
+      "ratingsCount": 7142,
+      "authors": [
+        "ژان تولی"
+      ],
+      "durationMin": 187,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 139311,
+      "title": "کتابخانه نیمه شب",
+      "format": "audiobook",
+      "cover": "/covers/139311.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/139311.jpg",
+      "finalPrice": 290000,
+      "price": 290000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.19,
+      "ratingsCount": 2202,
+      "authors": [
+        "مت هیگ"
+      ],
+      "durationMin": 677,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 95170,
+      "title": "کتابخانه نیمه شب",
+      "format": "ebook",
+      "cover": "/covers/95170.jpg",
+      "remoteCover": "/covers/95170.jpg",
+      "finalPrice": 0,
+      "price": 117000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.28,
+      "ratingsCount": 0,
+      "authors": [
+        "مت هیگ"
+      ],
+      "durationMin": null,
+      "pages": 352,
+      "inSubscription": false
+    },
+    {
+      "id": 89835,
+      "title": "جزء از کل",
+      "format": "audiobook",
+      "cover": "/covers/89835.jpg",
+      "remoteCover": "/covers/89835.jpg",
+      "finalPrice": 0,
+      "price": 352000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.94,
+      "ratingsCount": 0,
+      "authors": [
+        "استیو تولتز"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 196265,
+      "title": "بخش دی",
+      "format": "ebook",
+      "cover": "/covers/196265.jpg",
+      "remoteCover": "/covers/196265.jpg",
+      "finalPrice": 0,
+      "price": 180000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.32,
+      "ratingsCount": 0,
+      "authors": [
+        "فریدا مک فادن"
+      ],
+      "durationMin": null,
+      "pages": 264,
+      "inSubscription": false
+    },
+    {
+      "id": 69675,
+      "title": "بامداد خمار",
+      "format": "audiobook",
+      "cover": "/covers/69675.jpg",
+      "remoteCover": "/covers/69675.jpg",
+      "finalPrice": 0,
+      "price": 387000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.22,
+      "ratingsCount": 0,
+      "authors": [
+        "فتانه حاج سید جوادی (پروین)"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    }
+  ],
+  "71437": [
+    {
+      "id": 18870,
+      "title": "سلام بر ابراهیم (۱)",
+      "format": "ebook",
+      "cover": "/covers/18870.jpg",
+      "remoteCover": "/covers/18870.jpg",
+      "finalPrice": 0,
+      "price": 21000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.68,
+      "ratingsCount": 0,
+      "authors": [
+        "گروه نویسندگان"
+      ],
+      "durationMin": null,
+      "pages": 239,
+      "inSubscription": false
+    },
+    {
+      "id": 30388,
+      "title": "خاطرات سفیر",
+      "format": "ebook",
+      "cover": "/covers/30388.jpg",
+      "remoteCover": "/covers/30388.jpg",
+      "finalPrice": 0,
+      "price": 313000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.5,
+      "ratingsCount": 0,
+      "authors": [
+        "نیلوفر شادمهری"
+      ],
+      "durationMin": null,
+      "pages": 224,
+      "inSubscription": false
+    },
+    {
+      "id": 43195,
+      "title": "یادت باشد...",
+      "format": "ebook",
+      "cover": "/covers/43195.jpg",
+      "remoteCover": "/covers/43195.jpg",
+      "finalPrice": 0,
+      "price": 30000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.77,
+      "ratingsCount": 0,
+      "authors": [
+        "محمدرسول ملاحسنی"
+      ],
+      "durationMin": null,
+      "pages": 328,
+      "inSubscription": false
+    },
+    {
+      "id": 70061,
+      "title": "نخل و نارنج",
+      "format": "ebook",
+      "cover": "/covers/70061.jpg",
+      "remoteCover": "/covers/70061.jpg",
+      "finalPrice": 0,
+      "price": 185000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.65,
+      "ratingsCount": 0,
+      "authors": [
+        "وحید یامین‌پور"
+      ],
+      "durationMin": null,
+      "pages": 248,
+      "inSubscription": false
+    },
+    {
+      "id": 95170,
+      "title": "کتابخانه نیمه شب",
+      "format": "ebook",
+      "cover": "/covers/95170.jpg",
+      "remoteCover": "/covers/95170.jpg",
+      "finalPrice": 0,
+      "price": 117000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.28,
+      "ratingsCount": 0,
+      "authors": [
+        "مت هیگ"
+      ],
+      "durationMin": null,
+      "pages": 352,
+      "inSubscription": false
+    },
+    {
+      "id": 71446,
+      "title": "پسرک، موش کور، روباه و اسب",
+      "format": "ebook",
+      "cover": "/covers/71446.jpg",
+      "remoteCover": "/covers/71446.jpg",
+      "finalPrice": 0,
+      "price": 125000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.27,
+      "ratingsCount": 0,
+      "authors": [
+        "چارلی مکسی"
+      ],
+      "durationMin": null,
+      "pages": 132,
+      "inSubscription": false
+    }
+  ],
+  "39534": [
+    {
+      "id": 95170,
+      "title": "کتابخانه نیمه شب",
+      "format": "ebook",
+      "cover": "/covers/95170.jpg",
+      "remoteCover": "/covers/95170.jpg",
+      "finalPrice": 0,
+      "price": 117000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.28,
+      "ratingsCount": 0,
+      "authors": [
+        "مت هیگ"
+      ],
+      "durationMin": null,
+      "pages": 352,
+      "inSubscription": false
+    },
+    {
+      "id": 59164,
+      "title": "مغازه خودکشی",
+      "format": "audiobook",
+      "cover": "/covers/59164.jpg",
+      "remoteCover": "/covers/59164.jpg",
+      "finalPrice": 0,
+      "price": 154000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.0,
+      "ratingsCount": 0,
+      "authors": [
+        "ژان تولی"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 89835,
+      "title": "جزء از کل",
+      "format": "audiobook",
+      "cover": "/covers/89835.jpg",
+      "remoteCover": "/covers/89835.jpg",
+      "finalPrice": 0,
+      "price": 352000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.94,
+      "ratingsCount": 0,
+      "authors": [
+        "استیو تولتز"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 196265,
+      "title": "بخش دی",
+      "format": "ebook",
+      "cover": "/covers/196265.jpg",
+      "remoteCover": "/covers/196265.jpg",
+      "finalPrice": 0,
+      "price": 180000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.32,
+      "ratingsCount": 0,
+      "authors": [
+        "فریدا مک فادن"
+      ],
+      "durationMin": null,
+      "pages": 264,
+      "inSubscription": false
+    },
+    {
+      "id": 69675,
+      "title": "بامداد خمار",
+      "format": "audiobook",
+      "cover": "/covers/69675.jpg",
+      "remoteCover": "/covers/69675.jpg",
+      "finalPrice": 0,
+      "price": 387000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.22,
+      "ratingsCount": 0,
+      "authors": [
+        "فتانه حاج سید جوادی (پروین)"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 187855,
+      "title": "خاطرات یک آدم کش",
+      "format": "audiobook",
+      "cover": "/covers/187855.jpg",
+      "remoteCover": "/covers/187855.jpg",
+      "finalPrice": 0,
+      "price": 165000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.06,
+      "ratingsCount": 0,
+      "authors": [
+        "کیم یونگ ها"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    }
+  ],
+  "231572": [
+    {
+      "id": 250852,
+      "title": "اجازه نده هر چیزی روی تو تاثیر بگذارد",
+      "format": "audiobook",
+      "cover": "/covers/250852.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/250852.jpg",
+      "finalPrice": 23000,
+      "price": 115000,
+      "discountPercent": 80,
+      "free": false,
+      "rating": 4.34,
+      "ratingsCount": 1697,
+      "authors": [
+        "دنیل چیدیاک"
+      ],
+      "durationMin": 280,
+      "pages": null,
+      "inSubscription": true
+    },
+    {
+      "id": 68150,
+      "title": "معجزه (شکرگزاری)",
+      "format": "audiobook",
+      "cover": "/covers/68150.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/68150.jpg",
+      "finalPrice": 199000,
+      "price": 199000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.32,
+      "ratingsCount": 4491,
+      "authors": [
+        "راندا برن"
+      ],
+      "durationMin": 368,
+      "pages": null,
+      "inSubscription": true
+    },
+    {
+      "id": 165476,
+      "title": "اول عاشق خودت باش",
+      "format": "audiobook",
+      "cover": "/covers/165476.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/165476.jpg",
+      "finalPrice": 40000,
+      "price": 40000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.12,
+      "ratingsCount": 3018,
+      "authors": [
+        "مارک رکلاو"
+      ],
+      "durationMin": 288,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 26357,
+      "title": "اثر مرکب",
+      "format": "audiobook",
+      "cover": "/covers/26357.jpg",
+      "remoteCover": "/covers/26357.jpg",
+      "finalPrice": 0,
+      "price": 19800,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.13,
+      "ratingsCount": 0,
+      "authors": [
+        "دارن هاردی"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 54131,
+      "title": "عادت های اتمی",
+      "format": "ebook",
+      "cover": "/covers/54131.jpg",
+      "remoteCover": "/covers/54131.jpg",
+      "finalPrice": 0,
+      "price": 99000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.09,
+      "ratingsCount": 0,
+      "authors": [
+        "جیمز کلیر"
+      ],
+      "durationMin": null,
+      "pages": 275,
+      "inSubscription": false
+    },
+    {
+      "id": 4206,
+      "title": "انسان در جستجوی معنا",
+      "format": "ebook",
+      "cover": "/covers/4206.jpg",
+      "remoteCover": "/covers/4206.jpg",
+      "finalPrice": 0,
+      "price": 78000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.82,
+      "ratingsCount": 0,
+      "authors": [
+        "ویکتور فرانکل"
+      ],
+      "durationMin": null,
+      "pages": 168,
+      "inSubscription": false
+    }
+  ],
+  "39659": [
+    {
+      "id": 35369,
+      "title": "چهار میثاق",
+      "format": "audiobook",
+      "cover": "/covers/35369.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/35369.jpg",
+      "finalPrice": 68000,
+      "price": 68000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.22,
+      "ratingsCount": 1625,
+      "authors": [
+        "دون میگوئل روئیز"
+      ],
+      "durationMin": 262,
+      "pages": null,
+      "inSubscription": true
+    },
+    {
+      "id": 44765,
+      "title": "ملت عشق (اجرای جدید)",
+      "format": "audiobook",
+      "cover": "/covers/44765.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/44765.jpg",
+      "finalPrice": 406000,
+      "price": 406000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.99,
+      "ratingsCount": 2193,
+      "authors": [
+        "الیف شافاک"
+      ],
+      "durationMin": 1194,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 68150,
+      "title": "معجزه (شکرگزاری)",
+      "format": "audiobook",
+      "cover": "/covers/68150.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/68150.jpg",
+      "finalPrice": 199000,
+      "price": 199000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.32,
+      "ratingsCount": 4491,
+      "authors": [
+        "راندا برن"
+      ],
+      "durationMin": 368,
+      "pages": null,
+      "inSubscription": true
+    },
+    {
+      "id": 95170,
+      "title": "کتابخانه نیمه شب",
+      "format": "ebook",
+      "cover": "/covers/95170.jpg",
+      "remoteCover": "/covers/95170.jpg",
+      "finalPrice": 0,
+      "price": 117000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.28,
+      "ratingsCount": 0,
+      "authors": [
+        "مت هیگ"
+      ],
+      "durationMin": null,
+      "pages": 352,
+      "inSubscription": false
+    },
+    {
+      "id": 59164,
+      "title": "مغازه خودکشی",
+      "format": "audiobook",
+      "cover": "/covers/59164.jpg",
+      "remoteCover": "/covers/59164.jpg",
+      "finalPrice": 0,
+      "price": 154000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.0,
+      "ratingsCount": 0,
+      "authors": [
+        "ژان تولی"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 89835,
+      "title": "جزء از کل",
+      "format": "audiobook",
+      "cover": "/covers/89835.jpg",
+      "remoteCover": "/covers/89835.jpg",
+      "finalPrice": 0,
+      "price": 352000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.94,
+      "ratingsCount": 0,
+      "authors": [
+        "استیو تولتز"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    }
+  ],
+  "250852": [
+    {
+      "id": 231572,
+      "title": "قدرت سکوت",
+      "format": "audiobook",
+      "cover": "/covers/231572.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/231572.jpg",
+      "finalPrice": 45000,
+      "price": 90000,
+      "discountPercent": 50,
+      "free": false,
+      "rating": 3.97,
+      "ratingsCount": 2070,
+      "authors": [
+        "تیک نات هان"
+      ],
+      "durationMin": 262,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 165476,
+      "title": "اول عاشق خودت باش",
+      "format": "audiobook",
+      "cover": "/covers/165476.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/165476.jpg",
+      "finalPrice": 40000,
+      "price": 40000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.12,
+      "ratingsCount": 3018,
+      "authors": [
+        "مارک رکلاو"
+      ],
+      "durationMin": 288,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 68150,
+      "title": "معجزه (شکرگزاری)",
+      "format": "audiobook",
+      "cover": "/covers/68150.jpg",
+      "remoteCover": "/covers/68150.jpg",
+      "finalPrice": 0,
+      "price": 199000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.32,
+      "ratingsCount": 0,
+      "authors": [
+        "راندا برن"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 26357,
+      "title": "اثر مرکب",
+      "format": "audiobook",
+      "cover": "/covers/26357.jpg",
+      "remoteCover": "/covers/26357.jpg",
+      "finalPrice": 0,
+      "price": 19800,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.13,
+      "ratingsCount": 0,
+      "authors": [
+        "دارن هاردی"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 54131,
+      "title": "عادت های اتمی",
+      "format": "ebook",
+      "cover": "/covers/54131.jpg",
+      "remoteCover": "/covers/54131.jpg",
+      "finalPrice": 0,
+      "price": 99000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.09,
+      "ratingsCount": 0,
+      "authors": [
+        "جیمز کلیر"
+      ],
+      "durationMin": null,
+      "pages": 275,
+      "inSubscription": false
+    },
+    {
+      "id": 4206,
+      "title": "انسان در جستجوی معنا",
+      "format": "ebook",
+      "cover": "/covers/4206.jpg",
+      "remoteCover": "/covers/4206.jpg",
+      "finalPrice": 0,
+      "price": 78000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.82,
+      "ratingsCount": 0,
+      "authors": [
+        "ویکتور فرانکل"
+      ],
+      "durationMin": null,
+      "pages": 168,
+      "inSubscription": false
+    }
+  ],
+  "35369": [
+    {
+      "id": 39659,
+      "title": "کیمیاگر",
+      "format": "audiobook",
+      "cover": "/covers/39659.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/39659.jpg",
+      "finalPrice": 229000,
+      "price": 229000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.97,
+      "ratingsCount": 2006,
+      "authors": [
+        "پائولو کوئیلو"
+      ],
+      "durationMin": 306,
+      "pages": null,
+      "inSubscription": true
+    },
+    {
+      "id": 68150,
+      "title": "معجزه (شکرگزاری)",
+      "format": "audiobook",
+      "cover": "/covers/68150.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/68150.jpg",
+      "finalPrice": 199000,
+      "price": 199000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.32,
+      "ratingsCount": 4491,
+      "authors": [
+        "راندا برن"
+      ],
+      "durationMin": 368,
+      "pages": null,
+      "inSubscription": true
+    },
+    {
+      "id": 44765,
+      "title": "ملت عشق (اجرای جدید)",
+      "format": "audiobook",
+      "cover": "/covers/44765.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/44765.jpg",
+      "finalPrice": 406000,
+      "price": 406000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.99,
+      "ratingsCount": 2193,
+      "authors": [
+        "الیف شافاک"
+      ],
+      "durationMin": 1194,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 108473,
+      "title": "پاندای بزرگ و اژدهای کوچک",
+      "format": "ebook",
+      "cover": "/covers/108473.jpg",
+      "remoteCover": "/covers/108473.jpg",
+      "finalPrice": 0,
+      "price": 125000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.31,
+      "ratingsCount": 0,
+      "authors": [
+        "جیمز نوربری"
+      ],
+      "durationMin": null,
+      "pages": 160,
+      "inSubscription": false
+    },
+    {
+      "id": 68779,
+      "title": "دنیای سوفی",
+      "format": "audiobook",
+      "cover": "/covers/68779.jpg",
+      "remoteCover": "/covers/68779.jpg",
+      "finalPrice": 0,
+      "price": 406000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.93,
+      "ratingsCount": 0,
+      "authors": [
+        "یوستین گوردر"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 82694,
+      "title": "چهار میثاق",
+      "format": "ebook",
+      "cover": "/covers/82694.jpg",
+      "remoteCover": "/covers/82694.jpg",
+      "finalPrice": 0,
+      "price": 70000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.07,
+      "ratingsCount": 0,
+      "authors": [
+        "دون میگوئل روئیز"
+      ],
+      "durationMin": null,
+      "pages": 136,
+      "inSubscription": false
+    }
+  ],
+  "90336": [
+    {
+      "id": 89835,
+      "title": "جزء از کل",
+      "format": "audiobook",
+      "cover": "/covers/89835.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/89835.jpg",
+      "finalPrice": 352000,
+      "price": 352000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.94,
+      "ratingsCount": 3364,
+      "authors": [
+        "استیو تولتز"
+      ],
+      "durationMin": 1362,
+      "pages": null,
+      "inSubscription": true
+    },
+    {
+      "id": 95170,
+      "title": "کتابخانه نیمه شب",
+      "format": "ebook",
+      "cover": "/covers/95170.jpg",
+      "remoteCover": "/covers/95170.jpg",
+      "finalPrice": 0,
+      "price": 117000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.28,
+      "ratingsCount": 0,
+      "authors": [
+        "مت هیگ"
+      ],
+      "durationMin": null,
+      "pages": 352,
+      "inSubscription": false
+    },
+    {
+      "id": 59164,
+      "title": "مغازه خودکشی",
+      "format": "audiobook",
+      "cover": "/covers/59164.jpg",
+      "remoteCover": "/covers/59164.jpg",
+      "finalPrice": 0,
+      "price": 154000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.0,
+      "ratingsCount": 0,
+      "authors": [
+        "ژان تولی"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 196265,
+      "title": "بخش دی",
+      "format": "ebook",
+      "cover": "/covers/196265.jpg",
+      "remoteCover": "/covers/196265.jpg",
+      "finalPrice": 0,
+      "price": 180000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.32,
+      "ratingsCount": 0,
+      "authors": [
+        "فریدا مک فادن"
+      ],
+      "durationMin": null,
+      "pages": 264,
+      "inSubscription": false
+    },
+    {
+      "id": 69675,
+      "title": "بامداد خمار",
+      "format": "audiobook",
+      "cover": "/covers/69675.jpg",
+      "remoteCover": "/covers/69675.jpg",
+      "finalPrice": 0,
+      "price": 387000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.22,
+      "ratingsCount": 0,
+      "authors": [
+        "فتانه حاج سید جوادی (پروین)"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 187855,
+      "title": "خاطرات یک آدم کش",
+      "format": "audiobook",
+      "cover": "/covers/187855.jpg",
+      "remoteCover": "/covers/187855.jpg",
+      "finalPrice": 0,
+      "price": 165000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.06,
+      "ratingsCount": 0,
+      "authors": [
+        "کیم یونگ ها"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    }
+  ],
+  "71238": [
+    {
+      "id": 72107,
+      "title": "شازده کوچولو",
+      "format": "audiobook",
+      "cover": "/covers/72107.jpg",
+      "remoteCover": "/covers/72107.jpg",
+      "finalPrice": 0,
+      "price": 15000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.37,
+      "ratingsCount": 0,
+      "authors": [
+        "آنتوان دوسنت اگزوپری"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 71446,
+      "title": "پسرک، موش کور، روباه و اسب",
+      "format": "ebook",
+      "cover": "/covers/71446.jpg",
+      "remoteCover": "/covers/71446.jpg",
+      "finalPrice": 0,
+      "price": 125000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.27,
+      "ratingsCount": 0,
+      "authors": [
+        "چارلی مکسی"
+      ],
+      "durationMin": null,
+      "pages": 132,
+      "inSubscription": false
+    },
+    {
+      "id": 6426,
+      "title": "شازده کوچولو",
+      "format": "ebook",
+      "cover": "/covers/6426.jpg",
+      "remoteCover": "/covers/6426.jpg",
+      "finalPrice": 0,
+      "price": 58500,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.41,
+      "ratingsCount": 0,
+      "authors": [
+        "آنتوان دوسنت اگزوپری"
+      ],
+      "durationMin": null,
+      "pages": 192,
+      "inSubscription": false
+    },
+    {
+      "id": 204141,
+      "title": "بازی های میراث",
+      "format": "ebook",
+      "cover": "/covers/204141.jpg",
+      "remoteCover": "/covers/204141.jpg",
+      "finalPrice": 0,
+      "price": 180000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.88,
+      "ratingsCount": 0,
+      "authors": [
+        "جنیفر لین بارنز"
+      ],
+      "durationMin": null,
+      "pages": 360,
+      "inSubscription": false
+    },
+    {
+      "id": 150375,
+      "title": "هری پاتر و سنگ کیمیا",
+      "format": "ebook",
+      "cover": "/covers/150375.jpg",
+      "remoteCover": "/covers/150375.jpg",
+      "finalPrice": 0,
+      "price": 120000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.32,
+      "ratingsCount": 0,
+      "authors": [
+        "جی. کی. رولینگ"
+      ],
+      "durationMin": null,
+      "pages": 280,
+      "inSubscription": false
+    },
+    {
+      "id": 336718,
+      "title": "پژواک",
+      "format": "ebook",
+      "cover": "/covers/336718.jpg",
+      "remoteCover": "/covers/336718.jpg",
+      "finalPrice": 0,
+      "price": 527400,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 0.0,
+      "ratingsCount": 0,
+      "authors": [
+        "پم مونیوس رایان"
+      ],
+      "durationMin": null,
+      "pages": 564,
+      "inSubscription": false
+    }
+  ],
+  "51760": [
+    {
+      "id": 95170,
+      "title": "کتابخانه نیمه شب",
+      "format": "ebook",
+      "cover": "/covers/95170.jpg",
+      "remoteCover": "/covers/95170.jpg",
+      "finalPrice": 0,
+      "price": 117000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.28,
+      "ratingsCount": 0,
+      "authors": [
+        "مت هیگ"
+      ],
+      "durationMin": null,
+      "pages": 352,
+      "inSubscription": false
+    },
+    {
+      "id": 59164,
+      "title": "مغازه خودکشی",
+      "format": "audiobook",
+      "cover": "/covers/59164.jpg",
+      "remoteCover": "/covers/59164.jpg",
+      "finalPrice": 0,
+      "price": 154000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.0,
+      "ratingsCount": 0,
+      "authors": [
+        "ژان تولی"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 89835,
+      "title": "جزء از کل",
+      "format": "audiobook",
+      "cover": "/covers/89835.jpg",
+      "remoteCover": "/covers/89835.jpg",
+      "finalPrice": 0,
+      "price": 352000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.94,
+      "ratingsCount": 0,
+      "authors": [
+        "استیو تولتز"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 196265,
+      "title": "بخش دی",
+      "format": "ebook",
+      "cover": "/covers/196265.jpg",
+      "remoteCover": "/covers/196265.jpg",
+      "finalPrice": 0,
+      "price": 180000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.32,
+      "ratingsCount": 0,
+      "authors": [
+        "فریدا مک فادن"
+      ],
+      "durationMin": null,
+      "pages": 264,
+      "inSubscription": false
+    },
+    {
+      "id": 69675,
+      "title": "بامداد خمار",
+      "format": "audiobook",
+      "cover": "/covers/69675.jpg",
+      "remoteCover": "/covers/69675.jpg",
+      "finalPrice": 0,
+      "price": 387000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.22,
+      "ratingsCount": 0,
+      "authors": [
+        "فتانه حاج سید جوادی (پروین)"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 187855,
+      "title": "خاطرات یک آدم کش",
+      "format": "audiobook",
+      "cover": "/covers/187855.jpg",
+      "remoteCover": "/covers/187855.jpg",
+      "finalPrice": 0,
+      "price": 165000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.06,
+      "ratingsCount": 0,
+      "authors": [
+        "کیم یونگ ها"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    }
+  ],
+  "69188": [
+    {
+      "id": 298,
+      "title": "شاهنامه فردوسی",
+      "format": "ebook",
+      "cover": "/covers/298.jpg",
+      "remoteCover": "/covers/298.jpg",
+      "finalPrice": 0,
+      "price": 15000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.47,
+      "ratingsCount": 0,
+      "authors": [
+        "ابوالقاسم فردوسی"
+      ],
+      "durationMin": null,
+      "pages": 1000,
+      "inSubscription": false
+    },
+    {
+      "id": 18870,
+      "title": "سلام بر ابراهیم (۱)",
+      "format": "ebook",
+      "cover": "/covers/18870.jpg",
+      "remoteCover": "/covers/18870.jpg",
+      "finalPrice": 0,
+      "price": 21000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.68,
+      "ratingsCount": 0,
+      "authors": [
+        "گروه نویسندگان"
+      ],
+      "durationMin": null,
+      "pages": 239,
+      "inSubscription": false
+    },
+    {
+      "id": 118620,
+      "title": "خون دلی که لعل شد",
+      "format": "ebook",
+      "cover": "/covers/118620.jpg",
+      "remoteCover": "/covers/118620.jpg",
+      "finalPrice": 0,
+      "price": 228000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.36,
+      "ratingsCount": 0,
+      "authors": [
+        "سید‌علی خامنه‌ای"
+      ],
+      "durationMin": null,
+      "pages": 432,
+      "inSubscription": false
+    },
+    {
+      "id": 80587,
+      "title": "قصه‌‌ کربلا",
+      "format": "ebook",
+      "cover": "/covers/80587.jpg",
+      "remoteCover": "/covers/80587.jpg",
+      "finalPrice": 0,
+      "price": 12000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.06,
+      "ratingsCount": 0,
+      "authors": [
+        "مهدی قزلی"
+      ],
+      "durationMin": null,
+      "pages": 192,
+      "inSubscription": false
+    },
+    {
+      "id": 95170,
+      "title": "کتابخانه نیمه شب",
+      "format": "ebook",
+      "cover": "/covers/95170.jpg",
+      "remoteCover": "/covers/95170.jpg",
+      "finalPrice": 0,
+      "price": 117000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.28,
+      "ratingsCount": 0,
+      "authors": [
+        "مت هیگ"
+      ],
+      "durationMin": null,
+      "pages": 352,
+      "inSubscription": false
+    },
+    {
+      "id": 71446,
+      "title": "پسرک، موش کور، روباه و اسب",
+      "format": "ebook",
+      "cover": "/covers/71446.jpg",
+      "remoteCover": "/covers/71446.jpg",
+      "finalPrice": 0,
+      "price": 125000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.27,
+      "ratingsCount": 0,
+      "authors": [
+        "چارلی مکسی"
+      ],
+      "durationMin": null,
+      "pages": 132,
+      "inSubscription": false
+    }
+  ],
+  "68779": [
+    {
+      "id": 44765,
+      "title": "ملت عشق (اجرای جدید)",
+      "format": "audiobook",
+      "cover": "/covers/44765.jpg",
+      "remoteCover": "https://img.taaghche.com/audioCover/44765.jpg",
+      "finalPrice": 406000,
+      "price": 406000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.99,
+      "ratingsCount": 2193,
+      "authors": [
+        "الیف شافاک"
+      ],
+      "durationMin": 1194,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 108473,
+      "title": "پاندای بزرگ و اژدهای کوچک",
+      "format": "ebook",
+      "cover": "/covers/108473.jpg",
+      "remoteCover": "/covers/108473.jpg",
+      "finalPrice": 0,
+      "price": 125000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.31,
+      "ratingsCount": 0,
+      "authors": [
+        "جیمز نوربری"
+      ],
+      "durationMin": null,
+      "pages": 160,
+      "inSubscription": false
+    },
+    {
+      "id": 35369,
+      "title": "چهار میثاق",
+      "format": "audiobook",
+      "cover": "/covers/35369.jpg",
+      "remoteCover": "/covers/35369.jpg",
+      "finalPrice": 0,
+      "price": 68000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.22,
+      "ratingsCount": 0,
+      "authors": [
+        "دون میگوئل روئیز"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 82694,
+      "title": "چهار میثاق",
+      "format": "ebook",
+      "cover": "/covers/82694.jpg",
+      "remoteCover": "/covers/82694.jpg",
+      "finalPrice": 0,
+      "price": 70000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.07,
+      "ratingsCount": 0,
+      "authors": [
+        "دون میگوئل روئیز"
+      ],
+      "durationMin": null,
+      "pages": 136,
+      "inSubscription": false
+    },
+    {
+      "id": 88626,
+      "title": "نیروی حال",
+      "format": "ebook",
+      "cover": "/covers/88626.jpg",
+      "remoteCover": "/covers/88626.jpg",
+      "finalPrice": 0,
+      "price": 150000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.75,
+      "ratingsCount": 0,
+      "authors": [
+        "اکهارت  تله"
+      ],
+      "durationMin": null,
+      "pages": 262,
+      "inSubscription": false
+    },
+    {
+      "id": 95170,
+      "title": "کتابخانه نیمه شب",
+      "format": "ebook",
+      "cover": "/covers/95170.jpg",
+      "remoteCover": "/covers/95170.jpg",
+      "finalPrice": 0,
+      "price": 117000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.28,
+      "ratingsCount": 0,
+      "authors": [
+        "مت هیگ"
+      ],
+      "durationMin": null,
+      "pages": 352,
+      "inSubscription": false
+    }
+  ],
+  "54861": [
+    {
+      "id": 68150,
+      "title": "معجزه (شکرگزاری)",
+      "format": "audiobook",
+      "cover": "/covers/68150.jpg",
+      "remoteCover": "/covers/68150.jpg",
+      "finalPrice": 0,
+      "price": 199000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.32,
+      "ratingsCount": 0,
+      "authors": [
+        "راندا برن"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 26357,
+      "title": "اثر مرکب",
+      "format": "audiobook",
+      "cover": "/covers/26357.jpg",
+      "remoteCover": "/covers/26357.jpg",
+      "finalPrice": 0,
+      "price": 19800,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.13,
+      "ratingsCount": 0,
+      "authors": [
+        "دارن هاردی"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 165476,
+      "title": "اول عاشق خودت باش",
+      "format": "audiobook",
+      "cover": "/covers/165476.jpg",
+      "remoteCover": "/covers/165476.jpg",
+      "finalPrice": 0,
+      "price": 40000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.12,
+      "ratingsCount": 0,
+      "authors": [
+        "مارک رکلاو"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 54131,
+      "title": "عادت های اتمی",
+      "format": "ebook",
+      "cover": "/covers/54131.jpg",
+      "remoteCover": "/covers/54131.jpg",
+      "finalPrice": 0,
+      "price": 99000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.09,
+      "ratingsCount": 0,
+      "authors": [
+        "جیمز کلیر"
+      ],
+      "durationMin": null,
+      "pages": 275,
+      "inSubscription": false
+    },
+    {
+      "id": 231572,
+      "title": "قدرت سکوت",
+      "format": "audiobook",
+      "cover": "/covers/231572.jpg",
+      "remoteCover": "/covers/231572.jpg",
+      "finalPrice": 0,
+      "price": 90000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 3.97,
+      "ratingsCount": 0,
+      "authors": [
+        "تیک نات هان"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    },
+    {
+      "id": 250852,
+      "title": "اجازه نده هر چیزی روی تو تاثیر بگذارد",
+      "format": "audiobook",
+      "cover": "/covers/250852.jpg",
+      "remoteCover": "/covers/250852.jpg",
+      "finalPrice": 0,
+      "price": 115000,
+      "discountPercent": 0,
+      "free": false,
+      "rating": 4.34,
+      "ratingsCount": 0,
+      "authors": [
+        "دنیل چیدیاک"
+      ],
+      "durationMin": null,
+      "pages": null,
+      "inSubscription": false
+    }
+  ]
+}

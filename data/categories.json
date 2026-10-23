@@ -1,0 +1,72 @@
+[
+  {
+    "slug": "novel",
+    "title": "داستان و رمان",
+    "description": "داستان‌هایی برای گم شدن در دنیای دیگر",
+    "icon": "BookOpen",
+    "tone": "green"
+  },
+  {
+    "slug": "literature",
+    "title": "ادبیات و شعر",
+    "description": "شعر، نمایشنامه و آثار ماندگار ادبی",
+    "icon": "Feather",
+    "tone": "coral"
+  },
+  {
+    "slug": "psychology",
+    "title": "روان‌شناسی و موفقیت",
+    "description": "شناخت خود، عادت‌ها و مسیر موفقیت",
+    "icon": "Brain",
+    "tone": "gold"
+  },
+  {
+    "slug": "history",
+    "title": "تاریخ و ایران‌شناسی",
+    "description": "روایت ایران و جهان از دل تاریخ",
+    "icon": "Landmark",
+    "tone": "brown"
+  },
+  {
+    "slug": "kids",
+    "title": "کودک و نوجوان",
+    "description": "قصه‌ها و کتاب‌های مصور برای کوچک‌ترها",
+    "icon": "Smile",
+    "tone": "coral"
+  },
+  {
+    "slug": "philosophy",
+    "title": "فلسفه و اندیشه",
+    "description": "پرسش‌های بزرگ و اندیشه‌های ماندگار",
+    "icon": "Lightbulb",
+    "tone": "green"
+  },
+  {
+    "slug": "lifestyle",
+    "title": "سبک زندگی و سلامت",
+    "description": "سلامت، آرامش و زندگی روزمره",
+    "icon": "HeartPulse",
+    "tone": "gold"
+  },
+  {
+    "slug": "humanities",
+    "title": "علوم انسانی",
+    "description": "جامعه، فرهنگ و علوم انسانی",
+    "icon": "Users",
+    "tone": "brown"
+  },
+  {
+    "slug": "art",
+    "title": "هنر و نمایش",
+    "description": "هنر، نمایش و زیبایی‌شناسی",
+    "icon": "Palette",
+    "tone": "coral"
+  },
+  {
+    "slug": "biography",
+    "title": "زندگی‌نامه و خاطرات",
+    "description": "زندگی آدم‌ها، خاطرات و روایت‌های واقعی",
+    "icon": "UserRound",
+    "tone": "green"
+  }
+]
