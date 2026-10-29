@@ -26,26 +26,26 @@ export function Hero() {
           headDelay={0.4}
           headDuration={16}
           opacity={0.96}
-          className="absolute -bottom-10 -left-10 w-40 opacity-60 sm:bottom-0 sm:left-2 sm:w-52 sm:opacity-80 lg:left-10 lg:w-64 lg:opacity-100"
+          className="absolute -bottom-10 left-[-4%] z-0 w-36 opacity-70 sm:bottom-0 sm:left-2 sm:w-52 sm:opacity-90 lg:left-8 lg:w-64"
         />
         <Sunflower
           duration={5.8}
           delay={1.2}
           headDelay={1.8}
           headDuration={13}
-          opacity={0.9}
-          className="absolute left-24 top-6 hidden w-28 sm:block sm:w-36 lg:left-56 lg:top-10 lg:w-44"
+          opacity={0.88}
+          className="absolute bottom-8 left-[18%] z-0 hidden w-28 sm:block sm:w-36 lg:left-52 lg:w-44"
         />
         <Sunflower
           duration={7.6}
           delay={0.6}
           headDelay={2.3}
           headDuration={17}
-          opacity={0.82}
-          className="absolute -right-10 -top-12 hidden w-32 sm:block md:right-2 md:top-3 md:w-36 lg:right-8 lg:top-6 lg:w-44"
+          opacity={0.55}
+          className="absolute -bottom-16 right-[-6%] z-0 hidden w-32 md:block md:w-40 lg:right-0 lg:w-48"
         />
 
-        <div className="relative z-20 max-w-2xl md:mr-20 lg:mr-28">
+        <div className="relative z-20 mr-auto max-w-2xl md:ml-[38%] lg:ml-[42%]">
           <div className="mb-5 inline-flex items-center gap-2 rounded-full border border-white/20 bg-white/10 px-3.5 py-1.5 text-[11px] font-semibold text-white/90 backdrop-blur">
             <Sparkles className="size-3.5 text-[#f5d47a]" />
             کتاب‌فروشی فارسی، با حال‌وهوای تازه
@@ -87,7 +87,7 @@ export function Hero() {
             <div>
               <dt className="text-[10px] text-white/60">کتاب منتخب</dt>
               <dd className="mt-1 text-lg font-extrabold">
-                {toPersianDigits(60)}+
+                {toPersianDigits(60)}
               </dd>
             </div>
             <div>

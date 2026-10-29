@@ -1,36 +1,52 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# کتاب‌سرا
 
-## Getting Started
+فروشگاه نمایشی کتاب الکترونیکی و صوتی فارسی، ساخته‌شده با Next.js (App Router)، TypeScript، Tailwind CSS و shadcn/ui. تمام وضعیت کاربر — ورود، علاقه‌مندی‌ها، خریدها و اشتراک — فقط در `localStorage` مرورگر ذخیره می‌شود و هیچ بک‌اند یا دیتابیسی در کار نیست.
 
-First, run the development server:
+## اجرا
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+سپس [http://localhost:3000](http://localhost:3000) را باز کن.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- نسخه‌ی Node پیشنهادی: ۲۰ یا بالاتر
+- ورود سریع نمایشی: `demo@ketabsara.ir` / `demo123` (یا هر ایمیل معتبر و رمز حداقل ۶ کاراکتری)
+- ساخت نسخه‌ی production: `npm run build` و سپس `npm run start`
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## ساختار داده
 
-## Learn More
+محتوای سایت در زمان اجرا فقط از فایل‌های `data/*.json` خوانده می‌شود؛ هیچ درخواستی به طاقچه یا سرویس بیرونی زده نمی‌شود. داده‌ها یک‌بار از MCP عمومی طاقچه جمع‌آوری و نرمال‌سازی شده‌اند.
 
-To learn more about Next.js, take a look at the following resources:
+| فایل | توضیح |
+| --- | --- |
+| `data/books.json` | کاتالوگ اصلی؛ ۶۰ کتاب شامل ۳۶ ایبوک و ۲۴ کتاب صوتی با مشخصات، قیمت، دسته‌ها، امتیاز و مسیر جلد |
+| `data/categories.json` | ۱۰ دسته‌بندی موضوعی (رمان، شعر، روان‌شناسی، تاریخ، کودک، فلسفه، هنر، علوم انسانی، سلامت و زندگی‌نامه) |
+| `data/home.json` | شناسه‌های منتخب صفحه‌ی اصلی برای پرفروش‌ها، تازه‌ها، کتاب‌های رایگان، کتاب‌های صوتی و جدول رتبه‌بندی |
+| `data/reviews.json` | نظرات منتخب هر کتاب (بر اساس شناسه‌ی کتاب) |
+| `data/similar.json` | کتاب‌های مشابه هر کتاب |
+| `data/podcasts.json` | ۴ پادکست نمایشی و کاملاً تخیلی، همراه با فهرست قسمت‌ها |
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+جلدها در `public/covers/<book-id>.jpg`، فونت‌های وزیرمتن در `public/fonts/` و صدای نمایشی پلیر در `public/audio/sample.wav` قرار دارند. برای بازسازی جلدهای گم‌شده و فونت‌ها (با حداکثر ۲ دانلود هم‌زمان) می‌توانی `node scripts/fetch-assets.mjs` را اجرا کنی؛ فایل‌های موجود دوباره دانلود نمی‌شوند.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## صفحه‌ها
 
-## Deploy on Vercel
+- `/` صفحه‌ی اصلی با هیروی سبز، گل‌های آفتابگردان متحرک، دسته‌بندی‌ها، پرفروش‌ها، رایگان‌ها، کتاب‌های صوتی و رتبه‌بندی
+- `/categories` و `/categories/[slug]` با فیلتر قالب/رایگان/بازه‌ی قیمت و مرتب‌سازی
+- `/book/[id]` جزئیات کتاب، مشخصات، نظرات و کتاب‌های مشابه
+- `/audiobooks` و `/podcasts` با پلیر نمایشی
+- `/favorites` و `/library` بر پایه‌ی `localStorage`
+- `/login` و `/signup` با فرم‌های shadcn (login-04 و signup-01) و چیدمان راست‌به‌چپ
+- `/subscription` و `/subscription/compare` برای مقایسه‌ی سه پلن
+- `/payment` و `/payment/result` درگاه شبیه‌سازی‌شده با پرداخت موفق/ناموفق
+- `/reader/[id]` ریدر با تغییر اندازه‌ی قلم و حالت روز/شب؛ دسترسی فقط پس از خرید، اشتراک فعال یا برای کتاب رایگان
+- `/search` جست‌وجو در عنوان، نویسنده و دسته‌ها
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## نکته‌ها
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- کلید ذخیره‌سازی: `ketabsara:store:v1` (کاربر، علاقه‌مندی‌ها، خریدها، پلن و تاریخ انقضا).
+- پلن‌ها: پایه ۹۹٬۰۰۰، پیشرفته ۱۶۹٬۰۰۰ و سالانه ۱٬۴۹۰٬۰۰۰ تومان. اشتراک فعال در این دمو دسترسی به همه‌ی کتاب‌ها می‌دهد.
+- کتاب‌های رایگان بدون درگاه مستقیماً به کتابخانه اضافه و در ریدر باز می‌شوند.
+- مشخصات و جلدها از داده‌های عمومی طاقچه آمده‌اند و فقط برای نمایش هستند. متن ریدر، متن اصلی کتاب‌ها نیست و از نوشته‌ی نمایشی و قطعات حوزه‌ی عمومی (گلستان سعدی) تشکیل شده است.
+- پادکست‌ها و پلیر صوتی کاملاً نمایشی‌اند و به محتوای واقعی متصل نیستند.

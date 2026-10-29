@@ -89,15 +89,28 @@ export function PaymentResult({
         <p className="mt-3 text-[10px] text-muted-foreground">در حال ثبت نتیجه…</p>
       )}
 
-      <Link
-        href={success ? "/library" : "/"}
-        className={cn(
-          buttonVariants({ variant: "default", size: "lg" }),
-          "mt-7 h-11 w-full rounded-xl text-sm font-extrabold",
+      <div className="mt-7 flex flex-col gap-2">
+        <Link
+          href={success ? "/library" : "/"}
+          className={cn(
+            buttonVariants({ variant: "default", size: "lg" }),
+            "h-11 w-full rounded-xl text-sm font-extrabold",
+          )}
+        >
+          {success ? "رفتن به کتابخانه" : "بازگشت به فروشگاه"}
+        </Link>
+        {!success && type && id && (
+          <Link
+            href={`/payment?type=${type}&id=${id}`}
+            className={cn(
+              buttonVariants({ variant: "outline", size: "lg" }),
+              "h-11 w-full rounded-xl text-sm font-extrabold",
+            )}
+          >
+            تلاش دوباره
+          </Link>
         )}
-      >
-        {success ? "رفتن به کتابخانه" : "بازگشت به فروشگاه"}
-      </Link>
+      </div>
     </div>
   );
 }

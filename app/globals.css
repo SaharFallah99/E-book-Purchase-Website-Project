@@ -38,6 +38,7 @@
   --color-popover: var(--popover);
   --color-popover-foreground: var(--popover-foreground);
   --color-primary: var(--primary);
+  --color-primary-hover: var(--primary-hover);
   --color-primary-foreground: var(--primary-foreground);
   --color-secondary: var(--secondary);
   --color-secondary-foreground: var(--secondary-foreground);
@@ -78,6 +79,7 @@
   --popover: #ffffff;
   --popover-foreground: #382110;
   --primary: #617054;
+  --primary-hover: #526247;
   --primary-foreground: #ffffff;
   --secondary: #f4f2e9;
   --secondary-foreground: #382110;
@@ -111,6 +113,7 @@
   --popover: #2b241f;
   --popover-foreground: #f4f2e9;
   --primary: #9caf89;
+  --primary-hover: #8ea07c;
   --primary-foreground: #1c2218;
   --secondary: #342c26;
   --secondary-foreground: #f4f2e9;
@@ -135,7 +138,7 @@
   }
 
   body {
-    @apply bg-background text-foreground;
+    @apply bg-header text-foreground;
     font-feature-settings: "ss01" 1, "ss02" 1;
     text-rendering: optimizeLegibility;
   }

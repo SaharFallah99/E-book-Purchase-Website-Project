@@ -57,7 +57,7 @@ export function LibraryView({ books }: { books: Book[] }) {
               <Library className="size-5" />
             </span>
             <div>
-              <p className="text-xs text-muted-foreground">کتاب‌های خریداری‌شده</p>
+              <p className="text-xs text-muted-foreground">کتاب‌های کتابخانه</p>
               <p className="mt-0.5 text-xl font-extrabold text-coffee">
                 {toPersianDigits(purchasedBooks.length)} کتاب
               </p>
@@ -65,8 +65,10 @@ export function LibraryView({ books }: { books: Book[] }) {
           </div>
           <p className="mt-4 text-[11px] leading-6 text-muted-foreground">
             {user
-              ? `${user.name} عزیز، کتاب‌های خریداری‌شده در این مرورگر ذخیره شده‌اند.`
-              : "در این مرورگر خرید یا دریافت رایگانی ثبت نشده است."}
+              ? `${user.name} عزیز، کتاب‌های خریداری‌شده و رایگان در این مرورگر ذخیره شده‌اند.`
+              : purchasedBooks.length > 0
+                ? "کتاب‌های خریداری‌شده و رایگان در این مرورگر ذخیره شده‌اند."
+                : "در این مرورگر خرید یا دریافت رایگانی ثبت نشده است."}
           </p>
         </div>
 
@@ -143,8 +145,8 @@ export function LibraryView({ books }: { books: Book[] }) {
             قفسه‌ات هنوز خالی است
           </h2>
           <p className="mt-2 text-xs leading-6 text-muted-foreground">
-            اولین کتاب را بخر یا یک کتاب رایگان انتخاب کن. بعد از پرداخت موفق،
-            کتاب همین‌جا و در دسترس ریدر ظاهر می‌شود.
+            اولین کتاب را بخر یا یک کتاب رایگان انتخاب کن. بعد از پرداخت موفق
+            یا دریافت رایگان، کتاب همین‌جا و در دسترس ریدر ظاهر می‌شود.
           </p>
           <div className="mt-6 flex flex-wrap justify-center gap-2">
             <Link

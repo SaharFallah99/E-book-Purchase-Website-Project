@@ -9,7 +9,7 @@ export function CategoryStrip({ className }: { className?: string }) {
   const counts = getCategoryCounts();
 
   return (
-    <div className={cn("grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-5", className)}>
+    <div className={cn("grid grid-cols-2 gap-3 lg:grid-cols-5", className)}>
       {categories.map((category) => (
         <Link
           key={category.slug}

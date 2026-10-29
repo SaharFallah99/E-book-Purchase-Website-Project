@@ -51,7 +51,6 @@ export function SignupForm({ ...props }: React.ComponentProps<typeof Card>) {
     setError("");
     signup(name.trim(), email);
     router.push("/");
-    router.refresh();
   }
 
   return (
@@ -155,7 +154,6 @@ export function SignupForm({ ...props }: React.ComponentProps<typeof Card>) {
               onClick={() => {
                 signup("مهمان کتاب‌سرا", "guest@ketabsara.ir");
                 router.push("/");
-                router.refresh();
               }}
               className="h-11 w-full rounded-xl text-xs font-bold"
             >

@@ -11,9 +11,10 @@ import type { Book } from "@/lib/types";
 import { cn } from "@/lib/utils";
 
 export function BookActions({ book }: { book: Book }) {
-  const { canRead, purchaseBook, ready, hasActivePlan } = useStore();
+  const { canRead, purchaseBook, ready, hasActivePlan, hasPurchased } = useStore();
   const router = useRouter();
   const accessible = canRead({ id: book.id, free: book.free });
+  const owned = hasPurchased(book.id);
 
   function getFreeBook() {
     purchaseBook(book.id);
@@ -22,18 +23,7 @@ export function BookActions({ book }: { book: Book }) {
 
   return (
     <div className="space-y-3">
-      {accessible ? (
-        <Link
-          href={`/reader/${book.id}`}
-          className={cn(
-            buttonVariants({ variant: "default", size: "lg" }),
-            "h-12 w-full rounded-xl text-sm font-extrabold shadow-sm",
-          )}
-        >
-          <BookOpen className="size-4.5" />
-          {book.free && !hasActivePlan ? "خواندن کتاب رایگان" : "ادامه‌ی مطالعه"}
-        </Link>
-      ) : book.free ? (
+      {book.free && !owned ? (
         <button
           type="button"
           onClick={getFreeBook}
@@ -45,6 +35,17 @@ export function BookActions({ book }: { book: Book }) {
           <Sparkles className="size-4.5" />
           افزودن رایگان به کتابخانه
         </button>
+      ) : accessible ? (
+        <Link
+          href={`/reader/${book.id}`}
+          className={cn(
+            buttonVariants({ variant: "default", size: "lg" }),
+            "h-12 w-full rounded-xl text-sm font-extrabold shadow-sm",
+          )}
+        >
+          <BookOpen className="size-4.5" />
+          {hasActivePlan && !owned ? "مطالعه با اشتراک" : "ادامه‌ی مطالعه"}
+        </Link>
       ) : (
         <Link
           href={`/payment?type=book&id=${book.id}`}

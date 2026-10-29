@@ -19,6 +19,17 @@ const sortLabels: Record<SortOption, string> = {
   newest: "تازه‌ترین",
 };
 
+const PERSIAN_DIGITS = "۰۱۲۳۴۵۶۷۸۹";
+const ARABIC_DIGITS = "٠١٢٣٤٥٦٧٨٩";
+
+function parsePrice(input: string): number {
+  const normalized = input
+    .replace(/[۰-۹]/g, (digit) => String(PERSIAN_DIGITS.indexOf(digit)))
+    .replace(/[٠-٩]/g, (digit) => String(ARABIC_DIGITS.indexOf(digit)))
+    .replace(/[^\d]/g, "");
+  return normalized ? Number(normalized) : 0;
+}
+
 export function CategoryExplorer({
   books,
   categoryTitle,
@@ -42,7 +53,7 @@ export function CategoryExplorer({
   const filtered = useMemo(() => {
     const result = books.filter((book) => {
       if (format !== "all" && book.format !== format) return false;
-      if (freeOnly && !book.free) return false;
+      if (freeOnly && !book.free && book.finalPrice !== 0) return false;
       if (!freeOnly) {
         if (book.finalPrice < minPrice || book.finalPrice > maxPrice) return false;
       }
@@ -149,25 +160,24 @@ export function CategoryExplorer({
             </p>
             <div className="flex items-center gap-2">
               <Input
-                type="number"
+                type="text"
                 inputMode="numeric"
-                value={minPrice}
-                min={bounds.min}
-                max={maxPrice}
-                onChange={(event) => setMinPrice(Number(event.target.value))}
+                dir="ltr"
+                value={formatNumber(minPrice)}
+                onChange={(event) => setMinPrice(parsePrice(event.target.value))}
                 aria-label="حداقل قیمت"
-                className="h-9 text-xs"
+                className="h-9 text-center text-xs"
                 disabled={freeOnly}
               />
               <span className="text-muted-foreground">تا</span>
               <Input
-                type="number"
+                type="text"
                 inputMode="numeric"
-                value={maxPrice}
-                min={minPrice}
-                onChange={(event) => setMaxPrice(Number(event.target.value))}
+                dir="ltr"
+                value={formatNumber(maxPrice)}
+                onChange={(event) => setMaxPrice(parsePrice(event.target.value))}
                 aria-label="حداکثر قیمت"
-                className="h-9 text-xs"
+                className="h-9 text-center text-xs"
                 disabled={freeOnly}
               />
             </div>

@@ -40,7 +40,11 @@ export function BookCard({
           className="block overflow-hidden rounded-xl outline-none focus-visible:ring-3 focus-visible:ring-ring/40"
           aria-label={`جزئیات ${book.title}`}
         >
-          <BookCover src={book.cover} title={book.title} />
+          <BookCover
+            src={book.cover}
+            fallbackSrc={book.remoteCover}
+            title={book.title}
+          />
         </Link>
 
         <div className="pointer-events-none absolute right-2 top-2 flex flex-col items-end gap-1.5">

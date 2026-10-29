@@ -108,17 +108,23 @@ function updateStore(updater: (current: PersistedState) => PersistedState) {
   persist(updater(getSnapshot()));
 }
 
-function subscribe(listener: () => void) {
-  listeners.add(listener);
-  const sync = (event: StorageEvent) => {
+let storageBound = false;
+
+function bindStorage() {
+  if (storageBound || typeof window === "undefined") return;
+  storageBound = true;
+  window.addEventListener("storage", (event: StorageEvent) => {
     if (event.key !== STORAGE_KEY) return;
     snapshot = safeRead();
     emit();
-  };
-  window.addEventListener("storage", sync);
+  });
+}
+
+function subscribe(listener: () => void) {
+  bindStorage();
+  listeners.add(listener);
   return () => {
     listeners.delete(listener);
-    window.removeEventListener("storage", sync);
   };
 }
 
@@ -135,6 +141,9 @@ function useHydrated(): boolean {
 
 function nameFromEmail(email: string): string {
   const local = email.split("@")[0] ?? "";
+  const normalized = local.toLowerCase();
+  if (normalized === "demo") return "کاربر نمایشی";
+  if (normalized === "guest") return "مهمان کتاب‌سرا";
   const cleaned = local.replace(/[._-]+/g, " ").trim();
   return cleaned || "کتاب‌خوان";
 }

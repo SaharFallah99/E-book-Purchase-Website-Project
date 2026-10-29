@@ -208,6 +208,7 @@ export default function HomePage() {
                   >
                     <BookCover
                       src={book.cover}
+                      fallbackSrc={book.remoteCover}
                       title={book.title}
                       className="w-9 rounded-md"
                       sizes="36px"

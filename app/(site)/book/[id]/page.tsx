@@ -124,14 +124,15 @@ export default async function BookPage({ params }: BookPageProps) {
         <span className="line-clamp-1 text-coffee">{book.title}</span>
       </nav>
 
-      <div className="grid gap-8 lg:grid-cols-[300px_minmax(0,1fr)]">
+      <div className="grid gap-8 md:grid-cols-[220px_minmax(0,1fr)] lg:grid-cols-[300px_minmax(0,1fr)]">
         <div>
-          <div className="mx-auto max-w-[280px] lg:mx-0 lg:max-w-none">
+          <div className="mx-auto max-w-[280px] md:mx-0 md:max-w-none">
             <BookCover
               src={book.cover}
+              fallbackSrc={book.remoteCover}
               title={book.title}
               priority
-              sizes="(max-width: 1024px) 280px, 300px"
+              sizes="(max-width: 768px) 280px, (max-width: 1024px) 220px, 300px"
               className="rounded-2xl shadow-[0_25px_60px_-35px_rgba(56,33,16,.65)]"
             />
           </div>
@@ -207,7 +208,7 @@ export default async function BookPage({ params }: BookPageProps) {
             )}
           </div>
 
-          <div className="mt-6 grid gap-4 sm:grid-cols-[1fr_280px]">
+          <div className="mt-6 grid gap-4 lg:grid-cols-[1fr_280px]">
             <div className="rounded-2xl border border-border bg-white p-4">
               <div className="grid gap-x-5 gap-y-4 sm:grid-cols-2">
                 {meta.map((item) => {
@@ -240,7 +241,7 @@ export default async function BookPage({ params }: BookPageProps) {
               </div>
             </div>
 
-            <aside className="flex flex-col rounded-2xl border border-border bg-white p-4 shadow-[0_20px_45px_-38px_rgba(56,33,16,.5)]">
+            <aside className="order-first flex flex-col rounded-2xl border border-border bg-white p-4 shadow-[0_20px_45px_-38px_rgba(56,33,16,.5)] lg:order-none">
               <div className="rounded-xl bg-cream p-4">
                 {book.discountPercent > 0 && (
                   <div className="flex items-center justify-between text-[11px]">

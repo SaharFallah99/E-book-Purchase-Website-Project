@@ -42,13 +42,11 @@ export function LoginForm({
     setError("");
     login(email, password);
     router.push("/");
-    router.refresh();
   }
 
   function quickLogin() {
     login("demo@ketabsara.ir", "demo123");
     router.push("/");
-    router.refresh();
   }
 
   return (

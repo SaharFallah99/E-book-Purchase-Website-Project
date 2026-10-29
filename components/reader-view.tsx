@@ -12,6 +12,7 @@ import {
   ShoppingBag,
   Sun,
 } from "lucide-react";
+import { AudioPlayer } from "@/components/audio-player";
 import { BookCover } from "@/components/book-cover";
 import { FavoriteButton } from "@/components/favorite-button";
 import { useStore } from "@/components/store-provider";
@@ -42,7 +43,13 @@ export function ReaderView({ book }: { book: Book }) {
       <div className="flex min-h-screen items-center justify-center bg-[#fbf8f2] px-4 py-10">
         <div className="w-full max-w-md rounded-3xl border border-border bg-white p-6 text-center shadow-[0_30px_80px_-50px_rgba(56,33,16,.55)]">
           <div className="mx-auto w-32">
-            <BookCover src={book.cover} title={book.title} className="rounded-xl" sizes="128px" />
+            <BookCover
+              src={book.cover}
+              fallbackSrc={book.remoteCover}
+              title={book.title}
+              className="rounded-xl"
+              sizes="128px"
+            />
           </div>
           <span className="mx-auto mt-5 grid size-11 place-items-center rounded-full bg-cream text-primary">
             <LockKeyhole className="size-5" />
@@ -182,6 +189,14 @@ export function ReaderView({ book }: { book: Book }) {
           <p className={cn("mt-2 text-xs", night ? "text-white/50" : "text-muted-foreground")}>
             متن زیر نمونه‌ای مستقل و در حوزه‌ی عمومی است؛ متن اصلی کتاب نیست.
           </p>
+          {book.format === "audiobook" && (
+            <AudioPlayer
+              title={book.title}
+              durationMin={book.durationMin}
+              tone={night ? "dark" : "light"}
+              className="mt-5"
+            />
+          )}
         </div>
 
         <article
