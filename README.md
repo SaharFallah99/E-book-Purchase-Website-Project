@@ -12,7 +12,6 @@ npm run dev
 سپس [http://localhost:3000](http://localhost:3000) را باز کن.
 
 - نسخه‌ی Node پیشنهادی: ۲۰ یا بالاتر
-- ورود سریع نمایشی: `demo@ketabsara.ir` / `demo123` (یا هر ایمیل معتبر و رمز حداقل ۶ کاراکتری)
 - ساخت نسخه‌ی production: `npm run build` و سپس `npm run start`
 
 ## ساختار داده
